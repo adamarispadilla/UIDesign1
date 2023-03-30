@@ -12,6 +12,10 @@ body {
 	color: darkred;
 }
 
+.cursive {
+    font-family: cursive;
+}
+
 p, li {
 	font-size:  22px;
 	line-height: 30px;
