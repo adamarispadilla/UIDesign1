@@ -10,6 +10,7 @@ body {
 	font-family: arial;
 	transition: background 500ms ease;
 	color: darkred;
+	background-color: palevioletred;
 }
 
 .cursive {
