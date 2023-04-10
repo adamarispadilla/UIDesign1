@@ -7,13 +7,13 @@
 /* adjusting fonts */
 
 body {
-	font-family: arial;
+	font-family: Helvetica;
 	transition: background 500ms ease;
 	color: darkred;
 	background-color: black;
 }
 
-.cursive {
+/*.cursive {
     font-family: cursive;
 }
 
