@@ -29,7 +29,7 @@ p, li {
 }
 
 h1, p {
-	margin: 100px;
+	margin: 500px;
 }
 
 ul, ol {
@@ -48,8 +48,10 @@ h3 {
 }
 
 .desc {
-	margin: 100px;
+	margin: 500px;
 }
+
+
 /* uncomment the code below to set the grid */
 
 /*#grid {
