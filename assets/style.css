@@ -28,7 +28,7 @@ p, li {
 	padding: 20px;
 }
 
-h1, p {
+h1 {
 	margin-bottom:  20px;
 	margin-block: 30px;
 }
@@ -43,7 +43,7 @@ img {
 }
 
 
-h3 {
+h3, p {
 
 	margin-left: 20px ;
 }
