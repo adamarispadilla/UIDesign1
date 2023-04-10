@@ -29,7 +29,8 @@ p, li {
 }
 
 h1, p {
-	margin: 150px;
+	margin: 50px;
+	margin-left: 200;
 }
 
 ul, ol {
