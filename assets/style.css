@@ -30,6 +30,7 @@ p, li {
 
 h1, p {
 	margin-bottom:  20px;
+	margin-block: 30px;
 }
 
 ul, ol {
