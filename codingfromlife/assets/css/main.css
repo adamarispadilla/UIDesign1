@@ -44,10 +44,10 @@ body {
 #circle {
 	width: 150px;
 	height: 150px;
-	background: blue;
+	background: red;
 	border-radius: 150px;
-	top: 203px;
-	left: 480px;
+	top: 327px;
+	left: 697px;
 	position: absolute;
 }
 
