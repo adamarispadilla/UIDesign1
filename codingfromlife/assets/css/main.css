@@ -41,11 +41,11 @@ body {
 }
 
 #book2 {
-	width: 229px;
-	height: 45px;
+	width: 249px;
+	height: 35px;
 	background: yellow;
 	top: 260px;
-	left: 129px;
+	left: 109px;
 	position: absolute;
 	transform: skewy(-5deg);
 }
@@ -55,8 +55,8 @@ body {
 	width: 180px;
 	height: 24px;
 	background: lightgrey;
-	top: 215px;
-	left: 180px;
+	top: 233px;
+	left: 115px;
 	position: absolute;
 	transform: skewy(-5deg);
 }
