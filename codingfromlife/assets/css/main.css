@@ -20,12 +20,12 @@ body {
 #triangle {
 	width: 0;
 	height: 0;
-	border-left: 75px solid transparent;
-	border-right: 75px solid transparent;
-	border-bottom: 150px solid yellow;
+	border-left: 61px solid transparent;
+	border-right: 62px solid transparent;
+	border-bottom: 87px solid red;
 	position: absolute;
-	top: 203px;
-	left: 60px;
+	top: 314px;
+	left: 151px;
 }
 
 
@@ -75,10 +75,10 @@ body {
 #anpanman-head {
 	width: 90px;
 	height: 90px;
-	background: red;
+	background: peachpuff;
 	border-radius: 150px;
-	top: 240px;
-	left: 177px;
+	top: 238px;
+	left: 165px;
 	position: absolute;
 }
 
