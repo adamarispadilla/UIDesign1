@@ -17,18 +17,6 @@ body {
 	position: relative;
 }
 
-/*#triangle {
-	width: 0;
-	height: 0;
-	border-left: 61px solid transparent;
-	border-right: 62px solid transparent;
-	border-bottom: 87px solid red;
-	position: absolute;
-	top: 314px;
-	left: 151px;
-}
-
-*/
 
 #book1 {
 	width: 239px;
@@ -116,13 +104,27 @@ body {
 	position: absolute;
 }
 
-#pot{
-	width: 196px;
-	height: 190px;
-	background: whitesmoke;
-  clip-path: polygon(45% 32%, 78% 32%, 83% 62%, 79% 100%, 30% 100%, 14% 46%, 37% 64%);
-	top: 182px;
-	left: 414px;
+
+#anpanman-head {
+	width: 90px;
+	height: 90px;
+	background: peachpuff;
+	border-radius: 150px;
+	top: 238px;
+	left: 165px;
+	position: absolute;
+}
+
+
+
+
+#rose{
+	width: 40px;
+	height: 40px;
+	background: mistyrose;
+	border-radius: 150px;
+	top: 18px;
+	left: 219px;
 	position: absolute;
 }
 
