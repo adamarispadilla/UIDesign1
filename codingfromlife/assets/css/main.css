@@ -37,7 +37,7 @@ body {
 	top: 307px;
 	left: 129px;
 	position: absolute;
-	transform: skew(-5deg);
+	transform: skewy(-5deg);
 }
 
 #book2 {
@@ -47,7 +47,7 @@ body {
 	top: 260px;
 	left: 129px;
 	position: absolute;
-	transform: skew(-5deg);
+	transform: skewy(-5deg);
 }
 
 
@@ -58,7 +58,7 @@ body {
 	top: 215px;
 	left: 180px;
 	position: absolute;
-	transform: skew(-5deg);
+	transform: skewy(-5deg);
 }
 
 
@@ -85,7 +85,7 @@ body {
 
 
 
-#clip {
+/* #clip {
 	width: 150px;
 	height: 150px;
 	background: green;
@@ -96,7 +96,8 @@ body {
 
 	/* uncomment for css transitions */
 	/* transition: all 400ms ease; */
-}
+} 
+*/
 
 /* animations */
 
