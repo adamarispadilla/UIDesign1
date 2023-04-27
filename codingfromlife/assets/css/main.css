@@ -17,7 +17,7 @@ body {
 	position: relative;
 }
 
-#triangle {
+/*#triangle {
 	width: 0;
 	height: 0;
 	border-left: 61px solid transparent;
@@ -28,6 +28,7 @@ body {
 	left: 151px;
 }
 
+*/
 
 #book1 {
 	width: 239px;
@@ -80,6 +81,17 @@ body {
 	top: 238px;
 	left: 165px;
 	position: absolute;
+}
+
+ #triangle {
+	width: 0;
+	height: 0;
+	border-left: 61px solid transparent;
+	border-right: 62px solid transparent;
+	border-bottom: 87px solid red;
+	position: absolute;
+	top: 314px;
+	left: 151px;
 }
 
 
