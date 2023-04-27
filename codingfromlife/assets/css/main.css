@@ -44,11 +44,23 @@ body {
 	width: 229px;
 	height: 45px;
 	background: yellow;
-	top: 237px;
+	top: 260px;
 	left: 129px;
 	position: absolute;
 	transform: skew(-5deg);
 }
+
+
+#book3{
+	width: 180px;
+	height: 24px;
+	background: lightgrey;
+	top: 215px;
+	left: 180px;
+	position: absolute;
+	transform: skew(-5deg);
+}
+
 
 
 #circle {
