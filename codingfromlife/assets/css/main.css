@@ -51,6 +51,18 @@ body {
 	position: absolute;
 }
 
+#anpanman {
+	width: 150px;
+	height: 150px;
+	background: red;
+	border-radius: 150px;
+	top: 280px;
+	left: 115px;
+	position: absolute;
+}
+
+
+
 #clip {
 	width: 150px;
 	height: 150px;
