@@ -87,10 +87,10 @@ body {
  #flower-plot {
 	width: 150px;
 	height: 150px;
-	background: floralwhite;
+	background: whitesmoke;
 	clip-path: polygon(47% 20%, 59% 19%, 63% 35%, 84% 42%, 83% 79%, 65% 89%, 35% 89%, 20% 76%, 23% 43%, 43% 36%);
-	top: 203px;
-	left: 690px;
+	top: 72px;
+	left: 173px;
 	position: absolute;
 
 	/* uncomment for css transitions */
