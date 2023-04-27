@@ -73,13 +73,13 @@ body {
 	position: absolute;
 }
 
-#anpanman {
-	width: 150px;
-	height: 150px;
+#anpanman-head {
+	width: 90px;
+	height: 90px;
 	background: red;
 	border-radius: 150px;
-	top: 280px;
-	left: 115px;
+	top: 240px;
+	left: 147px;
 	position: absolute;
 }
 
