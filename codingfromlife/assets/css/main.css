@@ -63,7 +63,7 @@ body {
 
 
 
-#circle {
+#apple {
 	width: 150px;
 	height: 150px;
 	background: red;
@@ -79,7 +79,7 @@ body {
 	background: red;
 	border-radius: 150px;
 	top: 240px;
-	left: 147px;
+	left: 177px;
 	position: absolute;
 }
 
@@ -93,9 +93,18 @@ body {
 	left: 173px;
 	position: absolute;
 
-	/* uncomment for css transitions */
-	/* transition: all 400ms ease; */
 } 
+
+#flower-stems{
+	width: 150px;
+	height: 150px;
+	background: green;
+  clip-path: polygon(28% 0, 51% 55%, 51% 55%, 54% 0, 61% 59%, 76% 0, 71% 58%, 100% 0, 56% 100%, 14% 3%, 43% 60%);
+	top: 93px;
+	left: 173px;
+	position: absolute;
+}
+
 
 /* animations */
 
