@@ -32,17 +32,24 @@ body {
 
 #book1 {
 	width: 239px;
-	height: 97px;
+	height: 65px;
 	background: green;
 	top: 307px;
 	left: 129px;
 	position: absolute;
-	transform: skew(10deg);
-
-	/* uncomment to add keyframe animation */
-	/* animation: spin 2s infinite; */
-
+	transform: skew(-5deg);
 }
+
+#book2 {
+	width: 229px;
+	height: 45px;
+	background: yellow;
+	top: 237px;
+	left: 129px;
+	position: absolute;
+	transform: skew(-5deg);
+}
+
 
 #circle {
 	width: 150px;
