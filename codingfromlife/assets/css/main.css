@@ -64,12 +64,12 @@ body {
 
 
 #apple {
-	width: 150px;
-	height: 150px;
-	background: red;
+	width: 100px;
+	height: 100px;
+	background: indianred;
 	border-radius: 150px;
-	top: 327px;
-	left: 697px;
+	top: 341px;
+	left: 591px;
 	position: absolute;
 }
 
