@@ -96,12 +96,12 @@ body {
 } 
 
 #flower-stems{
-	width: 150px;
-	height: 150px;
+	width: 154px;
+	height: 106px;
 	background: green;
   clip-path: polygon(28% 0, 51% 55%, 51% 55%, 54% 0, 61% 59%, 76% 0, 71% 58%, 100% 0, 56% 100%, 14% 3%, 43% 60%);
-	top: 93px;
-	left: 173px;
+	top: 23px;
+	left: 167px;
 	position: absolute;
 }
 
