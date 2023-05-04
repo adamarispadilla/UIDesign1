@@ -115,7 +115,7 @@ body {
 	position: absolute;
 }
 
-#anpanman-lefthand {
+#left-hand {
 	idth: 61px;
   height: 26px;
   background: yellow;
@@ -125,7 +125,7 @@ body {
   position: absolute;
 }
 
-#anpanman-righthand {
+#right-hand {
 	width: 90px;
 	height: 90px;
 	background: peachpuff;
