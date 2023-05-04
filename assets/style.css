@@ -9,8 +9,8 @@
 body {
 	font-family: Helvetica;
 	transition: background 500ms ease;
-	color: darkred;
-	background-color: black;
+	color: palegreen;
+	background-color: darkgreen;
 }
 
 /*.cursive {
