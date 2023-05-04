@@ -6,8 +6,14 @@
 
 /* adjusting fonts */
 
+@font-face {
+  font-family: "videogame";
+  src: url("terminal-grotesque-webfont.woff2") format("font-format");
+}
+
+
 body {
-	font-family: Helvetica;
+	font-family: "videogame" , Helvetica, Arial;
 	transition: background 500ms ease;
 	color: palegreen;
 	background-color: darkgreen;
@@ -20,6 +26,17 @@ body {
 p, li {
 	font-size:  22px;
 	line-height: 30px;
+}
+
+*/ 
+
+a, a:visited {
+  transition: all 500ms ease;
+  color: blue;
+}
+
+a:hover {
+  color: red;  
 }
 
 /* adjusting spacing */
