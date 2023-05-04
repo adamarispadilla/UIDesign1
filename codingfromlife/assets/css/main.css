@@ -116,7 +116,7 @@ body {
 }
 
 #left-hand {
-	idth: 61px;
+	width: 61px;
   height: 26px;
   background: yellow;
   border-radius: 150px;
