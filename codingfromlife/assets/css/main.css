@@ -115,6 +115,25 @@ body {
 	position: absolute;
 }
 
+#anpanman-lefthand {
+	idth: 61px;
+  height: 26px;
+  background: yellow;
+  border-radius: 150px;
+  top: 334px;
+  left: 153px;
+  position: absolute;
+}
+
+#anpanman-righthand {
+	width: 90px;
+	height: 90px;
+	background: peachpuff;
+	border-radius: 150px;
+	top: 238px;
+	left: 165px;
+	position: absolute;
+}
 
 
 
