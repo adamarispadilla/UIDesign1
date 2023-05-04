@@ -88,7 +88,7 @@ body {
 	height: 150px;
 	background: whitesmoke;
 	clip-path: polygon(47% 20%, 59% 19%, 63% 35%, 84% 42%, 83% 79%, 65% 89%, 35% 89%, 20% 76%, 23% 43%, 43% 36%);
-	top: 93px;
+	top: 100px;
 	left: 173px;
 	position: absolute;
 
@@ -99,7 +99,7 @@ body {
 	height: 106px;
 	background: green;
   clip-path: polygon(28% 0, 51% 55%, 51% 55%, 54% 0, 61% 59%, 76% 0, 71% 58%, 100% 0, 56% 100%, 14% 3%, 43% 60%);
-	top: 23px;
+	top: 42px;
 	left: 167px;
 	position: absolute;
 }
@@ -123,8 +123,8 @@ body {
 	height: 40px;
 	background: mistyrose;
 	border-radius: 150px;
-	top: 18px;
-	left: 219px;
+	top: 22px;
+	left: 227px;
 	position: absolute;
 }
 
