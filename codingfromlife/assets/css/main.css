@@ -128,7 +128,7 @@ body {
 
 
 
-#rose{
+#rose1{
 	width: 40px;
 	height: 40px;
 	background: mistyrose;
@@ -137,6 +137,28 @@ body {
 	left: 227px;
 	position: absolute;
 }
+
+#rose2{
+	width: 40px;
+	height: 40px;
+	background: mistyrose;
+	border-radius: 150px;
+	top: 39px;
+	left: 205px;
+	position: absolute;
+}
+
+
+#rose3{
+	width: 40px;
+	height: 40px;
+	background: mistyrose;
+	border-radius: 150px;
+	top: 65px;
+	left: 205px;
+	position: absolute;
+}
+
 
 
  #pot {
