@@ -296,24 +296,25 @@ border-style: solid;
 }
 
 #anpanman-eye1{
-    width: 6px;
-    height: 15px;
+   width: 4px;
+    height: 7px;
     background: black;
     border-radius: 243px;
     border-style: solid;
     top: 255px;
-    left: 191px;
+    left: 195px;
     position: absolute;
-}
+
+ }
 
 #anpanman-eye2{
-    width: 2px;
-    height: 1px;
+   width: 9px;
+    height: 3px;
     background: black;
     border-radius: 243px;
     border-style: solid;
-    top: 255px;
-    left: 191px;
+    top: 259px;
+    left: 214px;
     position: absolute;
 }
 
