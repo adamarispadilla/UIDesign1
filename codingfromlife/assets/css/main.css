@@ -263,7 +263,7 @@ border-style: solid;
 #anpanman-cheek1{
   width: 28px;
   height: 28px;
-  background: mistyrose;
+  background: orange;
   border-radius: 150px;
   border-style: solid;
   top: 273px;
@@ -275,7 +275,7 @@ border-style: solid;
 #anpanman-cheek2{
   width: 28px;
   height: 28px;
-  background: mistyrose;
+  background: orange;
   border-radius: 150px;
   border-style: solid;
   top: 273px;
@@ -283,6 +283,19 @@ border-style: solid;
   position: absolute;
 
 }
+
+#anpanman-nose{
+    width: 30px;
+    height: 30px;
+    background: orange;
+    border-radius: 185px;
+    border-style: solid;
+    top: 269px;
+    left: 193px;
+    position: absolute;
+}
+
+
 
 
 /* animations */
