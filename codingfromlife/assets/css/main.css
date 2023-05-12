@@ -96,10 +96,23 @@ body {
 
 
  #flower-pot {
-	width: 150px;
-	height: 150px;
+	width: 90px;
+	height: 90px;
 	background: whitesmoke;
 	border-radius: 150px;
+	top: 100px;
+	left: 173px;
+	position: absolute;
+  border-style: solid;
+
+
+} 
+
+
+ #flower-pot-opening {
+	width: 90px;
+	height: 90px;
+	background: whitesmoke;
 	top: 100px;
 	left: 173px;
 	position: absolute;
