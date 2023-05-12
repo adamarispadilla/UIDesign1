@@ -60,7 +60,7 @@ body {
 #apple {
 	width: 100px;
 	height: 100px;
-	background: indianred;
+	background-image: radial-gradient(orange, #fa1616 );	
 	border-radius: 150px;
 	top: 341px;
 	left: 591px;
