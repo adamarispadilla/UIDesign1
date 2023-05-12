@@ -108,18 +108,6 @@ body {
 
 } 
 
-#flower-stems{
-	width: 154px;
-	height: 106px;
-	background: green;
-  clip-path: polygon(28% 0, 51% 55%, 51% 55%, 54% 0, 61% 59%, 76% 0, 71% 58%, 100% 0, 56% 100%, 14% 3%, 43% 60%);
-	top: 42px;
-	left: 167px;
-	position: absolute;
-	border-style: solid;
-
-}
-
 
 #anpanman-head {
 	width: 90px;
@@ -197,6 +185,18 @@ body {
 
 } 
 
+
+#flower-stems{
+	width: 154px;
+	height: 106px;
+	background: green;
+  clip-path: polygon(28% 0, 51% 55%, 51% 55%, 54% 0, 61% 59%, 76% 0, 71% 58%, 100% 0, 56% 100%, 14% 3%, 43% 60%);
+	top: 42px;
+	left: 167px;
+	position: absolute;
+	border-style: solid;
+
+}
 
 /* animations */
 
