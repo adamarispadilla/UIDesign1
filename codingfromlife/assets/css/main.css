@@ -260,6 +260,31 @@ border-style: solid;
 
 }
 
+#anpanman-cheek1{
+  width: 28px;
+  height: 28px;
+  background: mistyrose;
+  border-radius: 150px;
+  border-style: solid;
+  top: 273px;
+  left: 161px;
+  position: absolute;
+
+}
+
+#anpanman-cheek2{
+  width: 28px;
+  height: 28px;
+  background: mistyrose;
+  border-radius: 150px;
+  border-style: solid;
+  top: 273px;
+  left: 211px;
+  position: absolute;
+
+}
+
+
 /* animations */
 
 /*
