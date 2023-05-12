@@ -295,6 +295,32 @@ border-style: solid;
     position: absolute;
 }
 
+#anpanman-eye1{
+    width: 6px;
+    height: 15px;
+    background: black;
+    border-radius: 243px;
+    border-style: solid;
+    top: 255px;
+    left: 191px;
+    position: absolute;
+}
+
+#anpanman-eye2{
+    width: 2px;
+    height: 1px;
+    background: black;
+    border-radius: 243px;
+    border-style: solid;
+    top: 255px;
+    left: 191px;
+    position: absolute;
+}
+
+}
+
+
+
 
 
 
