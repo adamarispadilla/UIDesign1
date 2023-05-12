@@ -154,8 +154,8 @@ body {
 	background: mistyrose;
 	border-style: solid;
 	border-radius: 150px;
-	top: 50px;
-	left: 237px;
+	top: 52px;
+	left: 248px;
 	position: absolute;
 }
 
@@ -165,8 +165,8 @@ body {
 	background: mistyrose;
 	border-radius: 150px;
 	border-style: solid;
-	top: 39px;
-	left: 205px;
+	top: 38px;
+	left: 216px;
 	position: absolute;
 }
 
@@ -178,7 +178,7 @@ body {
 	border-style: solid;
 	border-radius: 150px;
 	top: 65px;
-	left: 205px;
+	left: 219px;
 	position: absolute;
 }
 
@@ -204,7 +204,7 @@ body {
 	background: green;
   clip-path: polygon(28% 0, 51% 55%, 51% 55%, 54% 0, 61% 59%, 76% 0, 71% 58%, 100% 0, 56% 100%, 14% 3%, 43% 60%);
 	top: 42px;
-	left: 167px;
+	left: 176px;
 	position: absolute;
 	border-style: solid;
 
