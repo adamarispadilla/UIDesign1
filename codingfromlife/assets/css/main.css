@@ -26,6 +26,8 @@ body {
 	left: 129px;
 	position: absolute;
 	transform: skewy(-5deg);
+	border-style: solid;
+
 }
 
 #book2 {
@@ -36,6 +38,8 @@ body {
 	left: 109px;
 	position: absolute;
 	transform: skewy(-5deg);
+  border-style: solid;
+
 }
 
 
@@ -47,6 +51,8 @@ body {
 	left: 146px;
 	position: absolute;
 	transform: skewy(-5deg);
+  border-style: solid;
+
 }
 
 
@@ -59,6 +65,8 @@ body {
 	top: 341px;
 	left: 591px;
 	position: absolute;
+  border-style: solid;
+
 }
 
 #anpanman-head {
@@ -69,6 +77,8 @@ body {
 	top: 238px;
 	left: 165px;
 	position: absolute;
+  border-style: solid;
+
 }
 
  #triangle {
@@ -80,6 +90,8 @@ body {
 	position: absolute;
 	top: 314px;
 	left: 151px;
+  border-style: solid;
+
 }
 
 
@@ -91,6 +103,8 @@ body {
 	top: 100px;
 	left: 173px;
 	position: absolute;
+  border-style: solid;
+
 
 } 
 
@@ -102,6 +116,8 @@ body {
 	top: 42px;
 	left: 167px;
 	position: absolute;
+	border-style: solid;
+
 }
 
 
@@ -113,6 +129,8 @@ body {
 	top: 238px;
 	left: 165px;
 	position: absolute;
+  border-style: solid;
+
 }
 
 #anpanman-arm {
@@ -123,6 +141,8 @@ body {
    top: 339px;
    left: 153px;
    position: absolute;
+   border-style: solid;
+
 }
 
 
@@ -172,6 +192,8 @@ body {
   top: 202px;
   left: 560px;
   position: absolute;
+  border-style: solid;
+
 
 } 
 
