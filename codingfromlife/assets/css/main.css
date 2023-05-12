@@ -132,9 +132,10 @@ body {
 	width: 40px;
 	height: 40px;
 	background: mistyrose;
+	outline-color: black;
 	border-radius: 150px;
-	top: 22px;
-	left: 227px;
+	top: 50px;
+	left: 237px;
 	position: absolute;
 }
 
