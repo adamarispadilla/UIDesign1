@@ -235,6 +235,17 @@ border-style: solid;
   height: 10px;
 }
 
+#pot1-circle{
+width: 10px;
+height: 10px;
+background: whitesmoke;
+border-radius: 150px;
+top: 205px;
+left: 639px;
+position: absolute;
+border-style: solid;
+}
+
 
 
 #flower-stems{
