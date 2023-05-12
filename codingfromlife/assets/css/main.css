@@ -188,11 +188,11 @@ body {
 	width: 150px;
   height: 150px;
   background: whitesmoke;
+  border-style: solid;
   clip-path: polygon(47% 20%, 59% 19%, 63% 35%, 84% 42%, 83% 79%, 65% 89%, 35% 89%, 20% 76%, 23% 43%, 43% 36%);
   top: 202px;
   left: 560px;
   position: absolute;
-  border-style: solid;
 
 
 } 
