@@ -213,14 +213,25 @@ border-style: solid;
 
 
  #pot1 {
-	width: 150px;
-  height: 150px;
+  width: 81px;
+  height: 93px;
   background: whitesmoke;
-  border-style: solid;
-  clip-path: polygon(47% 20%, 59% 19%, 63% 35%, 84% 42%, 83% 79%, 65% 89%, 35% 89%, 20% 76%, 23% 43%, 43% 36%);
-  top: 202px;
-  left: 560px;
+  border-radius: 150px;
+  top: 212px;
+  left: 598px;
   position: absolute;
+  border-style: solid;
+} 
+
+
+ #pot2-opening {
+	width: 36px;
+  height: 20px;
+  background: whitesmoke;
+  top: 125px;
+  left: 245px;
+  position: absolute;
+  border-style: solid;
 
 
 } 
