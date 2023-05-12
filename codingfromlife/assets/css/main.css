@@ -22,7 +22,7 @@ body {
 	width: 239px;
 	height: 65px;
 	background: green;
-	top: 307px;
+	top: 295px;
 	left: 129px;
 	position: absolute;
 	transform: skewy(-5deg);
@@ -78,6 +78,34 @@ body {
 	left: 165px;
 	position: absolute;
   border-style: solid;
+
+}
+
+
+
+#anpanman-feet1 {
+
+width: 35px;
+height: 30px;
+background: peachpuff;
+border-radius: 30px;
+top: 389px;
+left: 173px;
+position: absolute;
+border-style: solid;
+}
+
+
+#anpanman-feet2{
+
+width: 35px;
+height: 30px;
+background: peachpuff;
+border-radius: 30px;
+top: 389px;
+left: 214px;
+position: absolute;
+border-style: solid;
 
 }
 
