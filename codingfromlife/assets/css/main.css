@@ -112,7 +112,6 @@ border-style: solid;
  #triangle {
 	width: 0;
 	height: 0;
-	background: black;
 	border-left: 61px solid transparent;
 	border-right: 62px solid transparent;
 	border-bottom: 87px solid red;
