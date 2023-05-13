@@ -6,6 +6,11 @@
 }
 
 h1 {
-	margin: 100px;
+	margin: 40px;
 	margin-left: 500px;
+}
+
+body {
+
+	background-color: green;
 }
