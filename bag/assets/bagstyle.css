@@ -73,6 +73,7 @@ html {
   grid-column-end: 9;
   grid-row-start: 1;
   grid-row-end: 6;
+  border-radius: 50%;
 
   /** Alternative Syntax **/
   /* grid-column: 5 / span 4;
