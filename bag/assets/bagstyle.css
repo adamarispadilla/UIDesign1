@@ -30,7 +30,14 @@ html {
 .container {
   width: 60%;
   margin: 2rem auto; 
+
+
 }
+
+
+.container:hover .overlay {
+  opacity: 1;
+  }
 
 .gallery {
   display: grid;
