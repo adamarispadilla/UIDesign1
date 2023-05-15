@@ -180,7 +180,7 @@ border-style: solid;
     height: 80px;
     border-radius: 50%;
     box-shadow: 15px 15px 0 0 black;
-
+    transform: rotate(45deg);
 }
 
 
