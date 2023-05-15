@@ -330,15 +330,14 @@ border-style: solid;
 }
 
 #anpanman-mouth {
-		width: 20px;
-    height: 20px;
+		width: 30px;
+    height: 30px;
     border-radius: 50%;
-    box-shadow: 2px 2px 0 0 red;
+    box-shadow: 7px 7px 0 0 #bb4e4e;
     transform: rotate(43deg);
-    top: 295px;
-    left: 195px;
+    top: 271px;
+    left: 186px;
     position: absolute;
-
 }
 
 #anpanman-eyebrow2 {
