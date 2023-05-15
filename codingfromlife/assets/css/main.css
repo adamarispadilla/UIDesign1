@@ -179,7 +179,7 @@ border-style: solid;
 		width: 80px;
     height: 80px;
     border-radius: 50%;
-    background: black;
+    box-shadow: 15px 15px 0 0 black;
 
 }
 
