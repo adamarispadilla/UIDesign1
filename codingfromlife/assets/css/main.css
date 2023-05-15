@@ -295,36 +295,36 @@ border-style: solid;
 }
 
 #anpanman-eye1{
-   width: 4px;
-    height: 7px;
+		width: 4px;
+    height: 8px;
     background: black;
     border-radius: 243px;
     border-style: solid;
-    top: 255px;
-    left: 195px;
+    top: 256px;
+    left: 189px;
     position: absolute;
-
+}
  }
 
 #anpanman-eye2{
-   width: 9px;
-    height: 3px;
+		width: 9px;
+    height: 2px;
     background: black;
     border-radius: 243px;
     border-style: solid;
-    top: 259px;
+    top: 261px;
     left: 214px;
     position: absolute;
 }
 
 #anpanman-eyebrow1 {
-		width: 25px;
-    height: 25px;
+		width: 20px;
+    height: 20px;
     border-radius: 50%;
-    box-shadow: 3px 3px 0 0 black;
+    box-shadow: 2px 2px 0 0 black;
     transform: rotate(225deg);
     top: 250px;
-    left: 208px;
+    left: 212px;
     position: absolute;
 
 }
@@ -332,15 +332,14 @@ border-style: solid;
 
 
 #anpanman-eyebrow2 {
-		width: 25px;
-    height: 25px;
+		width: 20px;
+    height: 20px;
     border-radius: 50%;
-    box-shadow: 3px 3px 0 0 black;
+    box-shadow: 2px 2px 0 0 black;
     transform: rotate(225deg);
-    top: 250px;
-    left: 185px;
+    top: 248px;
+    left: 183px;
     position: absolute;
-
 }
 
 
