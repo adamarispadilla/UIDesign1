@@ -181,6 +181,10 @@ border-style: solid;
     border-radius: 50%;
     box-shadow: 15px 15px 0 0 black;
     transform: rotate(45deg);
+    top: 339px;
+    left: 153 px;
+    position: absoulte;
+    
 }
 
 
