@@ -175,6 +175,14 @@ border-style: solid;
 
 
 
+#anpanman-eyebrow1 {
+		width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background: black;
+
+}
+
 
 #rose1{
 	width: 40px;
