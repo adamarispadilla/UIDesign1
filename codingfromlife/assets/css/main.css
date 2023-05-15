@@ -329,7 +329,18 @@ border-style: solid;
 
 }
 
+#anpanman-mouth {
+		width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 0 0 black;
+    transform: rotate(225deg);
+    top: 300px;
+    left: 212px;
+    position: absolute;
 
+
+}
 
 #anpanman-eyebrow2 {
 		width: 20px;
