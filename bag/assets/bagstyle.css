@@ -25,13 +25,18 @@ html {
   font-size: 62.5%; 
 }
 
+.container{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
 
 .card {
   width: 200px;
   height: 300px;
   border: 1px solid black;
-  margin: 30px;
-  padding: 40px; 
+  margin: 10px;
+  padding: 10px; 
   display: inline-block;
   box-sizing: border-box;
   background-color: white;
