@@ -8,7 +8,7 @@
 }
 
 h1 {
-	margin: 40px;
+	margin: 75px;
 	margin-left: 500px;
 	color: yellow;
 }
@@ -22,7 +22,7 @@ body {
 
 html {
   box-sizing: border-box;
-  font-size: 62.5%; 
+  font-size: 80.5%; 
 }
 
 .container{
