@@ -16,7 +16,7 @@ body {
 	font-family: "videogame" , Helvetica, Arial;
 	transition: background 500ms ease;
 	color: 9fb19d;
-	background-color: blueviolet;
+	background-color: green;
 }
 
 /*.cursive {
@@ -70,9 +70,13 @@ h3 {
 }
 
 #darkmode-button{
-	padding: 20px;
-	height: auto;
-	color: blue;
+	font-size: 1rem;
+	font-weight: bold;
+	border: 2px solid var(--accent-color);
+	background: transparent;
+	padding: 0.5rem;
+	margin-bottom: 1rem;
+	border-radius: 5px;
 }
 
 /* uncomment the code below to set the grid */
