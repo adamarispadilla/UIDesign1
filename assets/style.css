@@ -79,6 +79,9 @@ button{
 	margin-bottom: 1rem;
 	border-radius: 30px;
 	right: 150px;
+	position: relative;
+	top: 26px;
+	left: 54px;
 }
 
 
