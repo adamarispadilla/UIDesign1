@@ -89,7 +89,7 @@ button:hover{
 /*	DARK MODE STYLES GO HERE */
 
 body.darkmode {
-	background: blue;
+	background: black;
 	color: white;
 
 	/*	redefine a CSS variable */
@@ -97,7 +97,8 @@ body.darkmode {
 }
 
 body.darkmode button{
-	color: white;
+	color: black;
+	background-color: blue;
 }
 
 /* uncomment the code below to set the grid */
