@@ -69,6 +69,11 @@ h3 {
 	margin-left: 400px;
 }
 
+#darkmode-button{
+	padding: 20px;
+	height: auto;
+	background-color: black;
+}
 
 /* uncomment the code below to set the grid */
 
