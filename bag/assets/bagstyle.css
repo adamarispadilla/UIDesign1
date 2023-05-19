@@ -26,10 +26,6 @@ html {
   font-size: 80.5%; 
 }
 
-p {
-
-  font-size: 80%;
-  object-position: center;
 
 
 }
@@ -93,6 +89,7 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
+  text-align: center; 
 }
 
 
