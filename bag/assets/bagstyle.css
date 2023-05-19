@@ -26,7 +26,13 @@ html {
   font-size: 80.5%; 
 }
 
+p {
 
+  font-size: 80%;
+  object-position: center;
+
+
+}
 .container{
   display: grid;
   grid-template-columns: repeat(4, 2fr);
@@ -87,8 +93,6 @@ html {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 80%;
-  object-position: center
 }
 
 
