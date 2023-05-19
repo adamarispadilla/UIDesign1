@@ -87,6 +87,7 @@ p {
   transform: rotateY(180deg);
   background-color: darkred;
   border: 5px solid white;
+  border-radius: 10px;
   color: yellow;
   display: flex;
   align-items: center;
