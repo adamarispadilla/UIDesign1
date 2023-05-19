@@ -79,9 +79,9 @@ html {
 
 .card-back {
   transform: rotateY(180deg);
-  background-color: lightpink;
+  background-color: yellow;
   border: 5px solid white;
-  color: yellow;
+  color: darkred;
   display: flex;
   align-items: center;
   justify-content: center;
