@@ -16,6 +16,8 @@ h1 {
 body {
 
 	background-color: darkred;
+  background-image: url('assets/photos/rednoise.png'); /* Path to your noise image */
+  overflow: hidden;
   padding-bottom: 100px;
 }
 
