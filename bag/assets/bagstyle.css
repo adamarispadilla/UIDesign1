@@ -28,7 +28,6 @@ html {
 
 
 
-}
 .container{
   display: grid;
   grid-template-columns: repeat(4, 1fr); /* Update the number of columns to 4 */
