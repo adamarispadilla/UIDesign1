@@ -26,7 +26,7 @@ h1 {
 
 #bag-title {
   color: yellow;
-  font-size: 50%;
+  font-size: 100%;
   animation: glow-animation 2s ease-in-out infinite;
 }
 
@@ -34,7 +34,7 @@ h1 {
 body {
 
 	background-color: darkred;
-  padding-bottom: 300px;
+  padding-bottom: 100px;
 }
 
 
