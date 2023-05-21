@@ -93,7 +93,9 @@ html {
 }
 
 
-
+.new-line {
+    display: block;
+}
 
 
 
