@@ -33,7 +33,7 @@ html {
   grid-template-columns: repeat(4, 1fr); /* Update the number of columns to 4 */
   grid-template-rows: repeat(2, 1fr); /* Add this line to specify 2 rows */
   grid-gap: 1px; /* Update to grid-gap to apply gap between grid items */
-  justify-items: center;
+  justify-items: end;
 }
 
 
