@@ -42,7 +42,7 @@ html {
   width: 260px;
   height: 340px;
   margin: 20px;
-  padding: 5px;
+  padding: 0px;
   background-color: yellow;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   border-radius: 10px;
