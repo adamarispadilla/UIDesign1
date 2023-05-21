@@ -26,7 +26,7 @@ h1 {
 
 #bag-title {
   color: yellow;
-  font-size: 100%;
+  font-size: 400%;
   animation: glow-animation 2s ease-in-out infinite;
 }
 
