@@ -10,8 +10,25 @@
 h1 {
 	margin: 75px;
 	margin-left: 500px;
-	color: yellow;
 }
+
+@keyframes glow-animation {
+  0% {
+    text-shadow: 0 0 5px yellow;
+  }
+  50% {
+    text-shadow: 0 0 20px orange;
+  }
+  100% {
+    text-shadow: 0 0 5px yellow;
+  }
+}
+
+#bag-title {
+  color: yellow;
+  animation: glow-animation 2s ease-in-out infinite;
+}
+
 
 body {
 
