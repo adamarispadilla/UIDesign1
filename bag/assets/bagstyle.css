@@ -41,7 +41,7 @@ html {
   position: relative;
   width: 180px;
   height: 260px;
-  margin: 5px;
+  margin: 0px;
   padding: 0px;
   background-color: yellow;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
