@@ -39,7 +39,7 @@ html {
 
 
 .card {
-  position: relative;
+  position: absolute;
   width: 200px;
   height: 300px;
   margin: 10px;
