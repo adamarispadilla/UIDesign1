@@ -32,16 +32,16 @@ html {
   display: grid;
   grid-template-columns: repeat(4, 1fr); /* Update the number of columns to 4 */
   grid-template-rows: repeat(2, 1fr); /* Add this line to specify 2 rows */
-  grid-gap: 0px; /* Update to grid-gap to apply gap between grid items */
+  grid-gap: 5px; /* Update to grid-gap to apply gap between grid items */
   justify-items: end;
 }
 
 
 .card {
   position: relative;
-  width: 200px;
-  height: 300px;
-  margin: 10px;
+  width: 180px;
+  height: 260px;
+  margin: 5px;
   padding: 0px;
   background-color: yellow;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
