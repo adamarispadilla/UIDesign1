@@ -108,7 +108,9 @@ body.darkmode button{
 
 /* media queries */
 
-@media only screen and (max-device-width: 812px) { 
-    body {
+@media only screen 
+		and (max-device-width: 812px) { 
+    	body {
         background: beige;
-    }
+   				 }
+}   				 
