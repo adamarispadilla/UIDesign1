@@ -65,9 +65,10 @@ background-color: #ddd;
 
 
 #suggestions{
-	background-color: lightgrey;
+	background-color: #f1f1f1;
 	padding: 20px;
 	border-bottom: solid;
+	text-align: center;
 
 }
 
