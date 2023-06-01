@@ -33,7 +33,7 @@ ul.navbar {
 }
     
 ul.navbar li {
-   float: left; 
+   float: right; 
 }
     
 ul.navbar li a {
