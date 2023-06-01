@@ -72,5 +72,15 @@ background-color: #ddd;
 
 }
 
+#button-container button {
+  margin: 10px;
+  padding: 8px 16px;
+  background-color: #f1f1f1;
+  border: none;
+  border-radius: 4px;
+  color: #333;
+  font-size: 16px;
+}
+
 
 
