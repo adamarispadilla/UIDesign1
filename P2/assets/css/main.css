@@ -38,13 +38,32 @@ ul.navbar li {
 }
     
 ul.navbar li a {
-   display: block;
-   color: black;
-   text-align: center;
-   padding: 14px 16px;
-   text-decoration: none;
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
 }
     
 ul.navbar li a:hover {
 background-color: #ddd;
 }
+ 
+
+#big-box {
+
+	width: 239px;
+	height: 65px;
+	background: white;
+	top: 295px;
+	left: 129px;
+	position: absolute;
+	border-style: solid;
+
+
+}
+
+
+
+
+
