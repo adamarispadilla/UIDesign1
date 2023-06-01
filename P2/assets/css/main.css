@@ -6,7 +6,7 @@
 
 h1 {
 
-	background-color: lightgrey;
+	background-color: #f1f1f1;
 	color: black;
 	margin: 30px;
 	margin-top: 250px;
@@ -38,7 +38,7 @@ ul.navbar li {
     
 ul.navbar li a {
    display: block;
-   color: lightgrey;
+   color: black;
    text-align: center;
    padding: 14px 16px;
    text-decoration: none;
