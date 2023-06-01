@@ -63,10 +63,9 @@ background-color: #ddd;
 	border-style: solid;
 }
 
-h1.suggestions-unwind{
-	top: 100px;
-	left: 300px;
 
+#suggestions{
+	background-color: lightgrey;
 
 }
 
