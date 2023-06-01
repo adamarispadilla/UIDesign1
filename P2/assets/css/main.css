@@ -73,13 +73,13 @@ background-color: #ddd;
 }
 
 #button-container button {
-  margin: 10px;
+  margin: 20px;
   padding: 10px 20px;
   background-color: #f1f1f1;
   border: solid;
   border-radius: 0px;
   color: #333;
-  font-size: 16px;
+  font-size: 14px;
   box-shadow: 1px 2px;
 }
 
