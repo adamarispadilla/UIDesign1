@@ -52,11 +52,11 @@ background-color: #ddd;
 
 #big-box {
 
-	width: 239px;
-	height: 65px;
+	width: 400px;
+	height: 300px;
 	background: white;
-	top: 295px;
-	left: 129px;
+	top: 100px;
+	left: 300px;
 	position: absolute;
 	border-style: solid;
 
