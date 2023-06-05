@@ -180,8 +180,9 @@ h1.cor {
 #cloud-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 20px;
+  grid-gap: 25px;
   justify-items: center;
+  right: 50px;
 }
 
 .cloud-container2 {
