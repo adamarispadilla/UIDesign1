@@ -186,7 +186,7 @@ h1.cor {
 }
 
 #sidebox{
-	position: absolute;
+	position: relative;
 	left: 30%;
 	width: 200px;
 	height: 600px;
