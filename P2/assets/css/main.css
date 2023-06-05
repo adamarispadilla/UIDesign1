@@ -173,8 +173,7 @@ h1.cor {
 
 .rcloud-text {
   position: absolute;
-  bottom: 10px;
-  left: 50%;
+  left: 30%;
   text-align: center;
   color: black;
   opacity: 0;
