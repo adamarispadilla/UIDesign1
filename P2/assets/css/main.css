@@ -110,6 +110,7 @@ h1.cor {
   left: 280px;
   align-items: center;
   color: whitesmoke;
+  z-index: 1;
 }
 
 
