@@ -64,16 +64,14 @@ background-color: #ddd;
   position: absolute;
   top: 0px;
   left: 20px;
-  z-index: 1;
 }
 
 
 .cloud2 {
-  position: absolute;
+  position: relative;
   top: 0px;
   left: 100px;
-  z-index: 1;
-}
+  }
 
 
 h1.cor {
