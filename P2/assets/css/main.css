@@ -58,7 +58,6 @@ background-color: #ddd;
 	margin-bottom: 20px;
 }
 
-.cloud1,
 .cloud2,
 .cloud3 {
   position: absolute;
@@ -66,25 +65,21 @@ background-color: #ddd;
  	left: 0;
 }
 
+
+.cloud1 {
+  position: absolute;
+  top: -100px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+
+}
+
 .cor {
   font-size: 36px;
   margin-top: 0;
-  position: relative;
-  z-index: 1;
 }
 
-
-.cor::before {
-  content: "";
-  position: absolute;
-  top: -30px;
-  left: 50%;
-  transform: translateX(-50%);
-  background: url(assets/css/cloud1.png) no-repeat;
-  background-size: contain;
-  width: 300px;
-  height: 200px;
-}
 
 
 .subtitle {
