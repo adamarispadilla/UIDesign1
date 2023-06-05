@@ -76,6 +76,7 @@ background-color: #ddd;
   position: absolute;
   top: 500px;
   left: 700px;
+  z-index: 0;
 }
 
 .cloud4 {
@@ -93,7 +94,7 @@ background-color: #ddd;
 .cloud6 {
   position: absolute;
   top: -20px;
-  right: -444px;
+  right: -400px;
 }
 
 .cloud7 {
@@ -110,7 +111,6 @@ h1.cor {
   left: 280px;
   align-items: center;
   color: whitesmoke;
-  z-index: 1;
 }
 
 
