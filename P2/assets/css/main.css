@@ -184,11 +184,11 @@ h1.cor {
   justify-items: center;
 }
 
-.cloud-container {
+.cloud-container2 {
   position: relative;
 }
 
-.cloud-text {
+.rcloud-text {
   position: absolute;
   bottom: 10px;
   left: 50%;
