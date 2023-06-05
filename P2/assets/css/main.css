@@ -64,12 +64,14 @@ background-color: #ddd;
   position: absolute;
   top: 468px;
   left: -134px;
+  opacity: 0.3;
 }
 
 .cloud2 {
   position: absolute;
   top: 480px;
   right: -405px;
+  opacity: 0.3;
 }
 
 .cloud3 {
@@ -77,18 +79,21 @@ background-color: #ddd;
   top: 500px;
   left: 700px;
   z-index: 0;
+  opacity: 0.3;
 }
 
 .cloud4 {
   position: absolute;
   top: 200px;
   right: -880px;
+  opacity: 0.3;
 }
 
 .cloud5 {
   position: absolute;
   top: 255px;
   left: -350px;
+  opacity: 0.3;
 }
 
 .cloud6 {
