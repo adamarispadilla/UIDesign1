@@ -61,8 +61,8 @@ background-color: #ddd;
 
 .cloud-text1 {
   position: absolute;
-  top: 468px;
-  left: -134px;
+  top: 590px;
+  left: 66px;
   font-size: 20px;
   color: white;
   text-align: center;
@@ -77,8 +77,8 @@ background-color: #ddd;
 
 .cloud-text2 {
   position: absolute;
-  top: 80%;
-  left: 100%;
+  top: 590px;
+  left: 300px;
   font-size: 20px;
   color: white;
   text-align: center;
@@ -93,8 +93,8 @@ background-color: #ddd;
 
 .cloud-text3 {
   position: absolute;
-  top: 110%;
-  left: 100%;
+  top: 590px;
+  left: 600px;
   font-size: 20px;
   color: white;
   text-align: center;
