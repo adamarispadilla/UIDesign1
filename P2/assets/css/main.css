@@ -58,12 +58,22 @@ background-color: #ddd;
 	margin-bottom: 20px;
 }
 
-.cloud1,
-.cloud2,
+.cloud1 {
+  position: absolute;
+  top: 25;
+  left: 100;
+}
+.cloud2 {
+  position: absolute;
+  top: 50;
+  left: 234;
+}
+
+
 .cloud3 {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: 100;
+  left: 534;
 }
 
 .cor {
