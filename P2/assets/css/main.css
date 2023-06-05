@@ -194,6 +194,11 @@ h1.cor {
   color: black;
   background-color: white;
   opacity: 0.2;
-  box-shadow: -3px 1px 10px 4px rgb(0 0 0);
   border-style: solid;
+}
+
+
+.google-form:hover{
+  box-shadow: -3px 1px 10px 4px rgb(0 0 0);
+
 }
