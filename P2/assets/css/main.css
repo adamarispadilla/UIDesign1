@@ -80,26 +80,26 @@ background-color: #ddd;
 
 .cloud4 {
   position: absolute;
-  top: -200px;
+  top: 50px;
   right: 400px;
 }
 
 .cloud5 {
   position: absolute;
-  top: 300px;
+  top: 50px;
   left: 50px;
 }
 
 .cloud6 {
   position: absolute;
-  top: 300px;
+  top: 50px;
   right: 50px;
 }
 
 .cloud7 {
   position: absolute;
-  top: 300px;
-  left: 400px;
+  top: 50px;
+  left: 50px;
 }
 
 
