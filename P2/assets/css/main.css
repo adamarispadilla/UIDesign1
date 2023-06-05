@@ -76,13 +76,13 @@ background-color: #ddd;
 .cloud3 {
   position: absolute;
   top: 0px;
-  left: 1px;
+  left: 320px;
   }
 
-  .cloud4 {
+.cloud4 {
   position: absolute;
   top: 0px;
-  left: 700px;
+  left: 500px;
   }
 
 h1.cor {
