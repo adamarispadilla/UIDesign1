@@ -154,6 +154,7 @@ h1.cor {
 
 #cloud-grid-container {
   position: relative;
+  padding: 10px;
   left: 300px; /* Adjust the value as per your requirement */
   overflow: hidden; /* Hide overflowing content */
 }
