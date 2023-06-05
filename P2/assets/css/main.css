@@ -177,7 +177,25 @@ h1.cor {
 
 }
 
+#cloud-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+  justify-items: center;
+}
 
+.cloud-container {
+  position: relative;
+}
+
+.cloud-text {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: black;
+  font-size: 20px;
+}
 
 
 
