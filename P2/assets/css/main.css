@@ -59,16 +59,14 @@ background-color: #ddd;
 	margin-bottom: 20px;
 }
 
-.cloud-text {
+.cloud-text1 {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  top: 100%;
+  left: 100%;
   font-size: 20px;
   color: white;
   text-align: center;
 }
-
 
 .cloud1 {
   position: absolute;
@@ -77,12 +75,31 @@ background-color: #ddd;
   opacity: 0.3;
 }
 
+.cloud-text2 {
+  position: absolute;
+  top: 80%;
+  left: 100%;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
 .cloud2 {
   position: absolute;
   top: 480px;
   right: -405px;
   opacity: 0.3;
 }
+
+.cloud-text3 {
+  position: absolute;
+  top: 110%;
+  left: 100%;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
 
 .cloud3 {
   position: absolute;
