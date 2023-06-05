@@ -3,7 +3,7 @@
 
 
 $(document).ready(function() {
-  $('rcloud1').click(function(e) {
+  $('relax/rcloud1').click(function(e) {
     e.preventDefault();
     var imageUrl = $(this).attr('src');
     $('#overlay-image').attr('src', imageUrl);
