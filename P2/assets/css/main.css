@@ -143,7 +143,9 @@ background-color: #ddd;
 	opacity: 1;
 }
 
-.cloud-container:hover .cloud-text1 {
+.cloud-container:hover .cloud-text1,
+.cloud-container:hover .cloud-text2,
+.cloud-container:hover .cloud-text3 {
 	color: black;
 }
 
