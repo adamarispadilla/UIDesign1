@@ -95,12 +95,14 @@ background-color: #ddd;
   position: absolute;
   top: -20px;
   right: -600px;
+  opacity: 0.3;
 }
 
 .cloud7 {
   position: absolute;
   top: 50px;
   left: 50px;
+  opacity: 0.3;
 }
 
 
