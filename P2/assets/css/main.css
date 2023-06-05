@@ -62,7 +62,7 @@ background-color: #ddd;
 
 .cloud1 {
   position: absolute;
-  top: 0px;
+  bottom: 100px;
   left: 20px;
 }
 
