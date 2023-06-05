@@ -187,14 +187,13 @@ h1.cor {
 
 .google-form{
 	position: absolute;
-  left: 96px;
-  top: 135px;
-  width: 120px;
-  height: 100px;
+	left: 96px;
+  top: 272px;
+  width: 193px;
+  height: 130px;
   color: black;
   background-color: white;
   opacity: 0.2;
   box-shadow: -3px 1px 10px 4px rgb(0 0 0);
   border-style: solid;
-
 }
