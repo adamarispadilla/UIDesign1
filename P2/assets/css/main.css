@@ -85,6 +85,14 @@ background-color: #ddd;
   left: 130px;
 }
 
+.cloud5 {
+  position: absolute;
+  top: 140px;
+  left: 160px;
+}
+
+
+
 h1.cor {
 	position: absolute;
   font-size: 55px;
