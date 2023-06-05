@@ -53,7 +53,7 @@ background-color: #ddd;
 }
 
 .cloud-container {
-	position: relative;
+	position: absolute;
 	width: 300px;
 	height: 200px;
 	margin-bottom: 20px;
