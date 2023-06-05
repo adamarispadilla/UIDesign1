@@ -58,28 +58,20 @@ background-color: #ddd;
 	margin-bottom: 20px;
 }
 
-.cloud1 {
-  position: absolute;
-  top: 25px;
-  left: 100px;
-}
-.cloud2 {
-  position: absolute;
-  top: 50px;
-  left: 234px;
-}
-
-
+.cloud1,
+.cloud2,
 .cloud3 {
   position: absolute;
-  top: 100px;
-  left: 534px;
+  top: 0;
+ 	left: 0;
 }
 
 .cor {
   font-size: 36px;
-  margin-top: 200px;
- }
+  margin-top: 0;
+  position: relative;
+  z-index: 1;
+}
 
 .subtitle {
   font-size: 24px;
