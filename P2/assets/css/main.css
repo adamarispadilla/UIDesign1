@@ -2,27 +2,14 @@
 	margin:  0px;
 	padding:  0px;
 	box-sizing: border-box;
-}
-
-h1.breaktime {
-
-	background-color: #f1f1f1;
-	color: black;
-	margin: 30px;
-	margin-top: 250px;
-	margin-left: 300px;
-	padding: 10px;
-	font-size: 100px;
-}
-
-p.subtitle {
-
-	color: black;
-	font-size: 20px;
-	margin: 10px;
-	margin-left: 600px;
 
 }
+
+body {
+  background-image: url('skycolor.png');
+}
+
+/* nav bar */
 
 ul.navbar {
     list-style-type: none;
@@ -49,6 +36,27 @@ ul.navbar li a:hover {
 background-color: #ddd;
 }
  
+/* 1st page - home page */
+
+h1.breaktime {
+
+	background-color: #f1f1f1;
+	color: black;
+	margin: 30px;
+	margin-top: 250px;
+	margin-left: 300px;
+	padding: 10px;
+	font-size: 100px;
+}
+
+p.subtitle {
+
+	color: black;
+	font-size: 20px;
+	margin: 10px;
+	margin-left: 600px;
+
+}
 
 /* 2nd page - unwind */
 
