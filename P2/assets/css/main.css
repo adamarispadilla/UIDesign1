@@ -10,33 +10,7 @@ body {
   overflow: hidden;
 }
 
-/* nav bar */
 
-ul.navbar {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #f1f1f1;
-    border-bottom: 2px solid black;
-}
-    
-ul.navbar li {
-   float: right; 
-}
-    
-ul.navbar li a {
-	display: block;
-	color: black;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-}
-    
-ul.navbar li a:hover {
-background-color: #ddd;
-}
- 
 /* 1st page - home page */
 
 #grid {
@@ -53,10 +27,11 @@ background-color: #ddd;
 }
 
 .cloud-container {
-	position: static;
+	position: absolute;
 	width: 300px;
 	height: 200px;
 	margin-bottom: 20px;
+	overflow: hidden;
 }
 
 .cloud-text1 {
