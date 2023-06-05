@@ -103,9 +103,8 @@ background-color: #ddd;
 
 .cloud3 {
   position: absolute;
-  top: 500px;ab
+  top: 500px;
   left: 700px;
-  z-index: 0;
   opacity: 0.3;
 }
 
