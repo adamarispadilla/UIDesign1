@@ -137,17 +137,14 @@ background-color: #ddd;
   opacity: 0.3;
 }
 
-.cloud1:hover,
-.cloud2:hover,
-.cloud3:hover {
+.cloud1:hover .cloud-text1,
+.cloud2:hover .cloud-text2,
+.cloud3:hover .cloud-text3 {
 	opacity: 1;
+	color:black;
 }
 
-.cloud-text1:hover,
-.cloud-text2:hover,
-.cloud-text3:hover {
-	color: black;
-}
+
 
 h1.cor {
 	position: absolute;
