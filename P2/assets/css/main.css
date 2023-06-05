@@ -59,6 +59,16 @@ background-color: #ddd;
 	margin-bottom: 20px;
 }
 
+.cloud-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
 
 .cloud1 {
   position: absolute;
@@ -76,7 +86,7 @@ background-color: #ddd;
 
 .cloud3 {
   position: absolute;
-  top: 500px;
+  top: 500px;ab
   left: 700px;
   z-index: 0;
   opacity: 0.3;
