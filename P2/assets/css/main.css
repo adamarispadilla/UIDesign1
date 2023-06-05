@@ -170,7 +170,6 @@ h1.cor {
   position: relative;
 }
 
-
 .rcloud-text {
   position: absolute;
   left: 30%;
@@ -179,7 +178,6 @@ h1.cor {
   color: black;
   opacity: 0;
   font-size: 20px;
-
 }
 
 
@@ -187,4 +185,13 @@ h1.cor {
 	opacity: 1;
 }
 
+#sidebox{
+	position: absolute;
+	left: 30%;
+	width: 200px;
+	height: 600px;
+	background-color:white;
+	opacity: 0.2;
+	border-style: solid;
 
+}
