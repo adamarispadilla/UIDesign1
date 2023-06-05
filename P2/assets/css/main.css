@@ -62,15 +62,15 @@ background-color: #ddd;
 
 .cloud1 {
   position: absolute;
-  bottom: -500px;
+  bottom: -450px;
   left: 70px;
 }
 
 
 .cloud2 {
   position: absolute;
-  top: -260px;
-  left: 400px;
+  bottom: -430px;
+  left: 150px;
   }
 
 .cloud3 {
