@@ -137,11 +137,9 @@ background-color: #ddd;
   opacity: 0.3;
 }
 
-.cloud1:hover .cloud-text1,
-.cloud2:hover .cloud-text2,
-.cloud3:hover .cloud-text3 {
+.cloud1:hover .cloud-text1 {
 	opacity: 1;
-	color:black;
+	color: black;
 }
 
 
