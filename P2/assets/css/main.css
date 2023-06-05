@@ -62,38 +62,38 @@ background-color: #ddd;
 
 .cloud1 {
   position: absolute;
-  top: -200px;
+  top: 460px;
   left: 50px;
 }
 
 .cloud2 {
   position: absolute;
-  top: -200px;
-  right: 50px;
+  top: 480px;
+  right: -400px;
 }
 
 .cloud3 {
   position: absolute;
-  top: -200px;
-  left: 400px;
+  top: -460px;
+  left: 730px;
 }
 
 .cloud4 {
   position: absolute;
-  top: 50px;
-  right: 400px;
+  top: 245px;
+  right: -730px;
 }
 
 .cloud5 {
   position: absolute;
-  top: 50px;
-  left: 50px;
+  top: 267px;
+  left: -160px;
 }
 
 .cloud6 {
   position: absolute;
-  top: 50px;
-  right: 50px;
+  top: -20px;
+  right: -444px;
 }
 
 .cloud7 {
