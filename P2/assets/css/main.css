@@ -162,7 +162,7 @@ h1.cor {
 #cloud-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 22px;
+  grid-gap: 15px;
   justify-items: center;
 }
 
