@@ -187,12 +187,13 @@ h1.cor {
 
 #sidebox{
 	position: absolute;
-	left: 50px;
-	top: 100px;
-	width: 200px;
-	height: 400px;
-	background-color:white;
-	opacity: 0.2;
-	border-style: solid;
+  left: 96px;
+  top: 135px;
+  width: 170px;
+  height: 331px;
+  color: white;
+  opacity: 0.2;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+  border-style: solid;
 
 }
