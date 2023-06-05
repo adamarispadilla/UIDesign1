@@ -1,7 +1,9 @@
 
+<script>
+
 
 $(document).ready(function() {
-  $('assets/css/relax/rcloud1.png').click(function(e) {
+  $('rcloud1').click(function(e) {
     e.preventDefault();
     var imageUrl = $(this).attr('src');
     $('#overlay-image').attr('src', imageUrl);
@@ -13,3 +15,4 @@ $(document).ready(function() {
   });
 });
 
+</script>
