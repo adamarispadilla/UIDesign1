@@ -62,7 +62,7 @@ background-color: #ddd;
 .cloud-text1 {
   position: absolute;
   top: 590px;
-  left: 66px;
+  left: 64px;
   font-size: 20px;
   color: white;
   text-align: center;
@@ -81,7 +81,6 @@ background-color: #ddd;
   left: 458px;
   font-size: 20px;
   color: white;
-  text-align: center;
 }
 
 .cloud2 {
