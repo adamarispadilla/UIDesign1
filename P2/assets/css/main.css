@@ -73,6 +73,20 @@ background-color: #ddd;
   z-index: 1;
 }
 
+
+.cor::before {
+  content: "";
+  position: absolute;
+  top: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: url(assets/css/cloud1.png) no-repeat;
+  background-size: contain;
+  width: 300px;
+  height: 200px;
+}
+
+
 .subtitle {
   font-size: 24px;
   margin-top: 0;
