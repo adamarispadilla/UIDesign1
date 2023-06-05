@@ -173,6 +173,8 @@ h1.cor {
   left: 300px;
   align-items: center;
   color: whitesmoke;
+  white-space: nowrap;
+
 }
 
 
