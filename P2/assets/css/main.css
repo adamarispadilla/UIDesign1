@@ -75,6 +75,11 @@ background-color: #ddd;
   opacity: 0.3;
 }
 
+
+.cloud1:hover {
+	opacity: 1;
+}
+
 .cloud-text2 {
   position: absolute;
   top: 590px;
