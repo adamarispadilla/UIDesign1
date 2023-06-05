@@ -60,25 +60,25 @@ background-color: #ddd;
 
 .cloud1 {
   position: absolute;
-  top: 25;
-  left: 100;
+  top: 25px;
+  left: 100px;
 }
 .cloud2 {
   position: absolute;
-  top: 50;
-  left: 234;
+  top: 50px;
+  left: 234px;
 }
 
 
 .cloud3 {
   position: absolute;
-  top: 100;
-  left: 534;
+  top: 100px;
+  left: 534px;
 }
 
 .cor {
   font-size: 36px;
-  margin-top: 0;
+  margin-top: 200px;
  }
 
 .subtitle {
