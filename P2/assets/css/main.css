@@ -73,6 +73,17 @@ background-color: #ddd;
   left: 400px;
   }
 
+.cloud3 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  }
+
+  .cloud4 {
+  position: absolute;
+  top: 0px;
+  left: 800px;
+  }
 
 h1.cor {
 	position: absolute;
