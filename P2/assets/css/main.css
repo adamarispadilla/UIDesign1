@@ -38,15 +38,15 @@ background-color: #ddd;
  
 /* 1st page - home page */
 
-h1.breaktime {
+h1.cor {
 
 	background-color: #f1f1f1;
 	color: black;
 	margin: 30px;
-	margin-top: 250px;
-	margin-left: 300px;
+	top: 250px;
+	left: 300px;
 	padding: 10px;
-	font-size: 100px;
+	font-size: 70px;
 }
 
 p.subtitle {
