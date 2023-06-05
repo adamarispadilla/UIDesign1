@@ -165,24 +165,14 @@ h1.cor {
 
 /* 2nd page - unwind */
 
-#big-box {
-
-	width: 800px;
-	height: 500px;
-	background: white;
-	top: 100px;
-	left: 300px;
-	position: absolute;
-	border-style: solid;
-}
-
 
 #suggestions{
-	position: absolute;
+	position: relative;
   font-size: 60px;
   margin-top: 330px;
   left: 250px;
   align-items: center;
+  color: whitesmoke;
 }
 
 
