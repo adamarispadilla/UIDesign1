@@ -70,7 +70,7 @@ background-color: #ddd;
 .cloud1 {
   position: absolute;
   top: 0px;
-  left: 300%;
+  left: 300px;
   z-index: 1;
 
 }
@@ -78,7 +78,7 @@ background-color: #ddd;
 .cor {
   font-size: 55px;
   margin-top: 0;
-  right: 100%;
+  right: 100px;
 }
 
 
