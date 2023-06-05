@@ -69,20 +69,20 @@ background-color: #ddd;
 
 .cloud2 {
   position: absolute;
-  top: 30px;
-  left: 150px;
+  top: 0px;
+  left: 350px;
   }
 
 .cloud3 {
   position: absolute;
   top: 0px;
-  left: 320px;
+  left: 520px;
   }
 
 .cloud4 {
   position: absolute;
-  top: 0px;
-  left: 500px;
+  top: 30px;
+  left: 30px;
   }
 
 h1.cor {
