@@ -237,7 +237,7 @@ h1.cor {
 .resources-container{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 10 px;
+  gap: 30 px;
 
 }
 
@@ -248,8 +248,8 @@ h1.cor {
   background-color: white;
   opacity: 0.2;
   border-style: solid;
-  width: 400px;
-  height: 400px;
+  width: 200px;
+  height: 300px;
 
 }
 
