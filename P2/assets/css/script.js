@@ -1,9 +1,9 @@
 
 <script>
 $(document).ready(function() {
-  $('.relax/rcloud1').click(function(e) {
+  $('.overlay-trigger').click(function(e) {
     e.preventDefault();
-    var imageUrl = $(this).attr('src');
+    var imageUrl = $(this).find('img').attr('src');
     $('#overlay-image').attr('src', imageUrl);
     $('#overlay').fadeIn();
   });
