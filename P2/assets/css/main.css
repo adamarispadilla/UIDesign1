@@ -240,6 +240,7 @@ h1.cor {
   top: 300px;
   width: 170px;
   height: 400px;
+  display: grid;
   color: black;
   background-color: white;
   opacity: 0.2;
@@ -250,4 +251,6 @@ h1.cor {
 .resources-container:hover{
   box-shadow: -3px 1px 10px 4px rgb(0 0 0);
 }
+
+
 
