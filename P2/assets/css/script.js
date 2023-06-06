@@ -17,7 +17,7 @@ const overlayMessage = document.getElementById('overlay-message');
 const overlayLink = document.getElementById('overlay-link');
 
 // Add event listeners for each rcloud element
-const rclouds = document.getElementsByClassName('rcloud');
+const rclouds = document.getElementsByClassName('rcloud1');
 for (let i = 0; i < rclouds.length; i++) {
   rclouds[i].addEventListener('click', function() {
     // Get the message and link for the clicked rcloud
