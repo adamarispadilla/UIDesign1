@@ -257,6 +257,7 @@ h1.cor {
   justify-content: center;
   align-items: center;
   height: 100%;
+  text-align: center;
 }
 
 #overlay-image {
@@ -287,9 +288,6 @@ h1.cor {
 }
 
 
-#overlay-content {
-  text-align: center;
-}
 
 #overlay-message {
   font-size: 24px;
@@ -310,6 +308,9 @@ h1.cor {
 #overlay-link:hover {
   background-color: #555;
 }
+
+
+
 /* 3rd page - resources*/
 
 .resources-container{
