@@ -287,6 +287,28 @@ h1.cor {
 }
 
 
+#overlay-content {
+  text-align: center;
+}
+
+#overlay-message {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 10px;
+}
+
+#overlay-link {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+#overlay-link:hover {
+  background-color: #555;
 }
 /* 3rd page - resources*/
 
