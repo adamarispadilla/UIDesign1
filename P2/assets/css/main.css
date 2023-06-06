@@ -292,7 +292,7 @@ h1.cor {
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
-  opacity: 0;
+  opacity: 1;
   transition: opacity 0.3s ease;
   color: red;
 }
