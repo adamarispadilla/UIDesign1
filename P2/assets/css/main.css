@@ -255,6 +255,17 @@ h1.cor {
   max-height: 80%;
 }
 
+.rcloud1:hover
+.rcloud2:hover,
+.rcloud3:hover,
+.rcloud4:hover,
+.rcloud5:hover,
+.rcloud6:hover,
+.rcloud7:hover,
+.rcloud8:hover,
+.rcloud9:hover {
+  cursor: pointer;
+}
 
 
 /* 3rd page - resources*/
