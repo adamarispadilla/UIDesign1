@@ -235,14 +235,9 @@ h1.cor {
 /* 3rd page - resources */
 
 .resources-container{
-  position: absolute;
-  left: 300px;
-  top: 200px;
-  width: 170px;
-  height: 400px;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 40 px;
+  gap: 10 px;
 
 }
 
@@ -253,6 +248,11 @@ h1.cor {
   background-color: white;
   opacity: 0.2;
   border-style: solid;
+  position: absolute;
+  left: 300px;
+  top: 100px;
+  width: 400px;
+  height: 400px;
 
 }
 
