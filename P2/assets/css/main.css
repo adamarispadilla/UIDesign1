@@ -230,3 +230,24 @@ h1.cor {
 .rcloud1 {
   cursor: pointer;
 }
+
+
+/* 3rd page - resources */
+
+.resources-container{
+  position: absolute;
+  left: 300px;
+  top: 300px;
+  width: 170px;
+  height: 400px;
+  color: black;
+  background-color: white;
+  opacity: 0.2;
+  border-style: solid;
+
+}
+
+.resources-container:hover{
+  box-shadow: -3px 1px 10px 4px rgb(0 0 0);
+}
+
