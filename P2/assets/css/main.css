@@ -237,7 +237,6 @@ h1.cor {
 .resources-container{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 30 px;
 
 }
 
@@ -250,6 +249,7 @@ h1.cor {
   border-style: solid;
   width: 200px;
   height: 300px;
+  gap: 20px;
 
 }
 
