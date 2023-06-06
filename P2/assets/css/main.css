@@ -136,16 +136,27 @@ h1.cor {
 
 
 
+#title1{
+  position: fixed;
+  font-size: 28px;
+  margin-top: 60px;
+  padding: 10px ;
+  left: 350px;
+  align-items: center;
+  color: whitesmoke;
+  white-space: nowrap;
+
+}
 
 /* 2nd page - unwind */
 
 
-#title{
+#title2{
 	position: fixed;
   font-size: 28px;
   margin-top: 60px;
   padding: 10px ;
-  left: 300px;
+  left: 200px;
   align-items: center;
   color: whitesmoke;
   white-space: nowrap;
