@@ -4,11 +4,9 @@ $(document).ready(function() {
     var imageSrc = $this.attr("src");
     var text = $this.siblings(".rcloud-text").text();
 
-    var text = $(this).siblings(".rcloud-text").text();
     var overlayText = $this.closest(".cloud-container2").data("text");
 
     $("#overlay-image").attr("src", imageSrc);
-    $("#overlay-message").text(text);
     $("#overlay-message").text(overlayText);
 
     $("#overlay-link").text(text);
