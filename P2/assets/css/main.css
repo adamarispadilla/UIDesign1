@@ -141,7 +141,7 @@ h1.cor {
 
 
 #title{
-	position: relative;
+	position: fixed;
   font-size: 28px;
   margin-top: 60px;
   padding: 10px ;
