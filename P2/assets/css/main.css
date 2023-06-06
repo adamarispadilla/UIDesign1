@@ -196,6 +196,7 @@ h1.cor {
 
 .cloud-container2:hover .rcloud-text{
 	opacity: 1;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 .google-form{
@@ -253,15 +254,15 @@ h1.cor {
   max-height: 80%;
 }
 
-.rcloud1,
-.rcloud2,
-.rcloud3,
-.rcloud4,
-.rcloud5,
-.rcloud6,
-.rcloud7,
-.rcloud8,
-.rcloud9 {
+.rcloud1:hover,
+.rcloud2:hover,
+.rcloud3:hover,
+.rcloud4:hover,
+.rcloud5:hover,
+.rcloud6:hover,
+.rcloud7:hover,
+.rcloud8:hover,
+.rcloud9:hover {
   cursor: pointer;
 }
 
