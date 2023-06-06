@@ -156,6 +156,7 @@ h1.cor {
   position: relative;
   padding: 10px;
   left: 350px; 
+  top: 150px;
   overflow: hidden; 
 }
 
@@ -239,6 +240,7 @@ h1.cor {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 20px;
+  top: 150px;
 
 }
 
