@@ -239,8 +239,6 @@ h1.cor {
   border-style: solid;
 }
 
-
-
 #overlay {
   display: none;
   position: fixed;
@@ -257,7 +255,6 @@ h1.cor {
   justify-content: center;
   align-items: center;
   height: 100%;
-  text-align: center;
 }
 
 #overlay-image {
@@ -265,29 +262,10 @@ h1.cor {
   max-height: 80%;
 }
 
-
-.rcloud1, .rcloud2, 
-.rcloud3, .rcloud4,
-.rcloud5, .rcloud6,
-.rcloud7, .rcloud8,
-.rcloud9{
-  width: 200px;
-  height: 150px;
-  position: absolute;
+#overlay-text {
+  text-align: center;
+  margin-top: 20px;
 }
-.rcloud1:hover
-.rcloud2:hover,
-.rcloud3:hover,
-.rcloud4:hover,
-.rcloud5:hover,
-.rcloud6:hover,
-.rcloud7:hover,
-.rcloud8:hover,
-.rcloud9:hover {
-  cursor: pointer;
-}
-
-
 
 #overlay-message {
   font-size: 24px;
@@ -308,7 +286,26 @@ h1.cor {
 #overlay-link:hover {
   background-color: #555;
 }
-
+.rcloud1, .rcloud2, 
+.rcloud3, .rcloud4,
+.rcloud5, .rcloud6,
+.rcloud7, .rcloud8,
+.rcloud9{
+  width: 200px;
+  height: 150px;
+  position: absolute;
+}
+.rcloud1:hover
+.rcloud2:hover,
+.rcloud3:hover,
+.rcloud4:hover,
+.rcloud5:hover,
+.rcloud6:hover,
+.rcloud7:hover,
+.rcloud8:hover,
+.rcloud9:hover {
+  cursor: pointer;
+}
 
 
 /* 3rd page - resources*/
