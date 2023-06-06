@@ -294,14 +294,15 @@ h1.cor {
   text-align: center;
   opacity: 0;
   transition: opacity 0.3s ease;
+  color: red;
 }
 
 .rcloud-button {
   margin-top: 10px;
   padding: 5px 10px;
-  background-color: #fff;
-  color: #000;
-  border: none;
+  background-color: #white;
+  color: #black;
+  border: red;
   opacity: 0.5;
 }
 
@@ -309,7 +310,7 @@ h1.cor {
   opacity: 1;
 
 
-  
+
 }
 /* 3rd page - resources*/
 
