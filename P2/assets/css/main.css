@@ -170,6 +170,10 @@ h1.cor {
   top: 10px;
   overflow: hidden; 
   width: 600px;
+  display: flex;
+  flex-wrap: wrap; 
+  justify-content: center; 
+  align-items: center; 
 }
 
 #cloud-grid {
@@ -182,6 +186,7 @@ h1.cor {
 .cloud-container2 {
   position: relative;
   width: 180px;
+  margin: 10px;
 }
 
 .rcloud-text {
