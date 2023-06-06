@@ -262,9 +262,11 @@ h1.cor {
   max-height: 80%;
 }
 
-.rcloud1 {
+
+.rcloud1{
   width: 200px;
-  height: 100px;
+  height: 150px;
+  position: absolute;
 }
 .rcloud1:hover
 .rcloud2:hover,
