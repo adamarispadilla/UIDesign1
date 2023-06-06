@@ -210,10 +210,24 @@ h1.cor {
 }
 
 
-.google-form:hover{
+.google-form:hover,
+.about-me:hover {
   box-shadow: -3px 1px 10px 4px rgb(0 0 0);
-
 }
+
+.about-me{
+  position: absolute;
+  left: 96px;
+  top: 172px;
+  width: 170px;
+  height: 50px;
+  color: black;
+  background-color: white;
+  opacity: 0.2;
+  border-style: solid;
+}
+
+
 
 /* overrlay? 
 
