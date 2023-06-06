@@ -252,8 +252,16 @@ h1.cor {
   max-height: 80%;
 }
 
-.rcloud1 {
-  cursor: crosshair;
+.rcloud1,
+.rcloud2,
+.rcloud3,
+.rcloud4,
+.rcloud5,
+.rcloud6,
+.rcloud7,
+.rcloud8,
+.rcloud9 {
+  cursor: pointer;
 }
 
 
