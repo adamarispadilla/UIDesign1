@@ -2,16 +2,17 @@ $(document).ready(function() {
   $(".rcloud1, .rcloud2, .rcloud3, .rcloud4, .rcloud5, .rcloud6, .rcloud7, .rcloud8, .rcloud9").click(function() {
     var $this = $(this);
     var imageSrc = $this.attr("src");
-    var text = $this.next(".overlay-text");
+    var text = $this.siblings(".rcloud-text").text();
+    var overlayText = $this.closest(".cloud-container2").data("text");
 
     $("#overlay-image").attr("src", imageSrc);
-    text.css("opacity", "1");
+    $("#overlay-message").text(overlayText);
+    $("#overlay-link").text(text);
 
     $("#overlay").fadeIn();
   });
 
   $("#overlay").click(function() {
-    $(".overlay-text").css("opacity", "0");
     $("#overlay").fadeOut();
   });
 });

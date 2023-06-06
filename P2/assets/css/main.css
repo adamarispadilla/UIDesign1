@@ -286,30 +286,6 @@ h1.cor {
   cursor: pointer;
 }
 
-.overlay-text {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
-  opacity: 1;
-  transition: opacity 0.3s ease;
-  color: red;
-}
-
-.rcloud-button {
-  margin-top: 10px;
-  padding: 5px 10px;
-  background-color: #white;
-  color: #black;
-  border: red;
-  opacity: 0.5;
-}
-
-.rcloud-button:hover {
-  opacity: 1;
-
-
 
 }
 /* 3rd page - resources*/
