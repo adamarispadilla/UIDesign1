@@ -169,6 +169,7 @@ h1.cor {
   left: 330px; 
   top: 150px;
   overflow: hidden; 
+  width: 600px;
 }
 
 #cloud-grid {
@@ -180,6 +181,7 @@ h1.cor {
 
 .cloud-container2 {
   position: relative;
+  width: 180px;
 }
 
 .rcloud-text {
