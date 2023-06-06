@@ -246,11 +246,6 @@ h1.cor {
 
 }
 
-.resources-container:hover{
-  box-shadow: -3px 1px 10px 4px rgb(0 0 0);
-}
-
-
 .column{
   text-align: center;
   padding: 10px;
@@ -260,3 +255,10 @@ h1.cor {
   border-style: solid;
 
 }
+
+
+
+.column:hover{
+  box-shadow: -3px 1px 10px 4px rgb(0 0 0);
+}
+
