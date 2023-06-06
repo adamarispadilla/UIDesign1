@@ -263,7 +263,11 @@ h1.cor {
 }
 
 
-.rcloud1, .rcloud2{
+.rcloud1, .rcloud2, 
+.rcloud3, .rcloud4,
+.rcloud5, .rcloud6,
+.rcloud7, .rcloud8,
+.rcloud9{
   width: 200px;
   height: 150px;
   position: absolute;
