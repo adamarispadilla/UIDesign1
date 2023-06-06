@@ -259,9 +259,9 @@ h1.cor {
 .column{
   text-align: center;
   padding: 10px;
-  color: black;
   background-color: white;
   opacity: 0.2;
+  color: white;
   border-style: solid;
   width: 200px;
   height: 300px;
