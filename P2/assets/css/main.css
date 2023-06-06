@@ -164,17 +164,17 @@ h1.cor {
 }
 
 #cloud-grid-container {
-  position: relative;
-  padding: 10px;
-  left: 330px; 
-  top: 10px;
-  overflow: hidden; 
-  width: 600px;
-  height: 600px;
-  display: flex;
-  flex-wrap: wrap; 
-  justify-content: center; 
-  align-items: center; 
+    position: relative;
+    padding: 7px;
+    left: 280px;
+    top: 30px;
+    overflow: hidden;
+    width: 748px;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
 
 #cloud-grid {
