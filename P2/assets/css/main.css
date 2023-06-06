@@ -243,10 +243,6 @@ h1.cor {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 20 px;
-  color: black;
-  background-color: white;
-  opacity: 0.2;
-  border-style: solid;
 
 }
 
@@ -258,5 +254,9 @@ h1.cor {
 .column{
   text-align: center;
   padding: 10px;
+  color: black;
+  background-color: white;
+  opacity: 0.2;
+  border-style: solid;
 
 }
