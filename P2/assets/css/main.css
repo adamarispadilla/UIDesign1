@@ -290,12 +290,13 @@ h1.cor {
 #overlay-subtext {
   font-size: 24px;
   font-weight: bold;
-  color: red;
+  color: whitesmoke;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   margin-bottom: 20px;
   text-align: center; 
   position: absolute; 
-  top: 30%; 
-  left: 52%; 
+  top: 10%; 
+  left: 30%; 
   transform: translate(-50%, -50%); 
 }
 
