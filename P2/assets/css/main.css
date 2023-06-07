@@ -273,7 +273,6 @@ h1.cor {
 #overlay-text {
   text-align: center;
   margin-top: 20px;
-  color: red;
 }
 
 #overlay-message {
@@ -287,6 +286,19 @@ h1.cor {
   left: 52%; 
   transform: translate(-50%, -50%); 
 }
+
+#overlay-subtext {
+  font-size: 24px;
+  font-weight: bold;
+  color: red;
+  margin-bottom: 20px;
+  text-align: center; 
+  position: absolute; 
+  top: 30%; 
+  left: 52%; 
+  transform: translate(-50%, -50%); 
+}
+
 
 
 

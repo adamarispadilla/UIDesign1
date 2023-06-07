@@ -8,6 +8,7 @@ $(document).ready(function() {
 
     $("#overlay-image").attr("src", imageSrc);
     $("#overlay-message").text(overlayText);
+    $("#overlay-subtext").text(text);
 
 
     $("#overlay").fadeIn();
