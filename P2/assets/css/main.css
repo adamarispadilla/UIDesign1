@@ -277,6 +277,7 @@ h1.cor {
 #overlay-link {
   display: inline-block;
   padding: 10px 20px;
+  left: 100px;
   background-color: #333;
   color: red;
   text-decoration: none;
