@@ -5,18 +5,16 @@ $(document).ready(function() {
     var text = $this.siblings(".rcloud-text").text();
 
     var overlayText = $this.closest(".cloud-container2").data("text");
+    var overlayButtonLink = $this.closest(".cloud-container2").data("link"); // Add this line
 
     $("#overlay-image").attr("src", imageSrc);
     $("#overlay-message").text(overlayText);
     $("#overlay-subtext").text(text);
+    $("#overlay-button").attr("href", overlayButtonLink); 
     $("#overlay").fadeIn();
   });
 
   $("#overlay").click(function() {
     $("#overlay").fadeOut();
   });
-
-  $("#overlay-button").click(function() {
-    window.location.href = 'https://www.youtube.com/watch?v=I9SMuho4RlI';
-   });
 });
