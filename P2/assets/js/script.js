@@ -9,7 +9,6 @@ $(document).ready(function() {
     $("#overlay-image").attr("src", imageSrc);
     $("#overlay-message").text(overlayText);
 
-    $("#overlay-link").text(text);
 
     $("#overlay").fadeIn();
   });
