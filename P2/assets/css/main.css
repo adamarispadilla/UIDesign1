@@ -217,13 +217,28 @@ h1.cor {
 }
 
 
-.about-me{
+.title1{
   position: absolute;
   left: 463px;
   top: 10px;
   color: white;
   font-size: medium;
+  font-weight: bold;
 }
+
+.google-form{
+  position: absolute;
+  left: 463px;
+  top: 15px;
+  color: white;
+  font-size: medium;
+}
+
+.google-form:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 
 #overlay {
   display: none;
