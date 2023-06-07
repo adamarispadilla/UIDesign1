@@ -176,7 +176,7 @@ h1.cor {
     position: relative;
     padding: 7px;
     left: 280px;
-    top: -82px;
+    top: -40px;
     overflow: hidden;
     width: 748px;
     height: 600px;
@@ -222,11 +222,12 @@ h1.cor {
 
 .about-me{
   position: absolute;
-  left: 20px;
+  left: 463px;
   top: 10px;
-  width: 180px;
-  height: 62px;
+  width: 378px;
+  height: 58px;
   color: white;
+  font-size: x-large;
   background-color: transparent;
 }
 
