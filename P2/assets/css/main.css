@@ -273,6 +273,7 @@ h1.cor {
 #overlay-text {
   text-align: center;
   margin-top: 20px;
+  color: red;
 }
 
 #overlay-message {
@@ -286,6 +287,8 @@ h1.cor {
   left: 52%; 
   transform: translate(-50%, -50%); 
 }
+
+
 
 .rcloud1, .rcloud2, 
 .rcloud3, .rcloud4,
