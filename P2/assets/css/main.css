@@ -216,22 +216,8 @@ h1.cor {
   cursor: pointer;
 }
 
-.google-form{
-	position: absolute;
-	left: 96px;
-  top: 272px;
-  width: 170px;
-  height: 50px;
-  color: black;
-  background-color: white;
-  opacity: 0.2;
-  border-style: solid;
-}
-
-
-.google-form:hover,
 .about-me:hover {
-  box-shadow: 0px 1px 3px 2px rgb(0 0 0);
+  box-shadow: 0px 1px 3px 2px white;
 }
 
 .about-me{
