@@ -9,6 +9,8 @@ $(document).ready(function() {
     $("#overlay-image").attr("src", imageSrc);
     $("#overlay-message").text(overlayText);
     $("#overlay-subtext").text(text);
+    $("#overlay-button").click(function() {
+     window.location.href = 'https://www.youtube.com/watch?v=I9SMuho4RlI';
 
 
     $("#overlay").fadeIn();
