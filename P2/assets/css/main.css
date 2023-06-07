@@ -306,12 +306,12 @@ h1.cor {
 
 #overlay-button{
   position: absolute;
-  width: 327px;
-  height: 41px;
+  width: 93px;
+  height: 39px;
   background-color: white;
   color: black;
   top: 88%;
-  left: 37%;
+  left: 46%;
   border: 1px solid #000;
   border-radius: 10px;
   padding: 10px;
