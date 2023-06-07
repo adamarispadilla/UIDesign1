@@ -285,7 +285,7 @@ h1.cor {
   top: 55%; 
   left: 52%; 
   transform: translate(-50%, -50%); 
-  text-shadow: 0 0 100px #ffffff, 0 0 100px #fff, 0 0 200px #fff, 0 0 300px #ffffff;
+  text-shadow: 0 0 80px #ffffff, 0 0 10px #fff, 0 0 30px #fff, 0 0 30px #ffffff;
 
 }
 
