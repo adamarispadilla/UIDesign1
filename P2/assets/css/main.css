@@ -229,6 +229,8 @@ h1.cor {
   color: white;
   font-size: x-large;
   background-color: transparent;
+  border-radius: 10px;
+  box-shadow: 0 4px 5px #7daecc
 }
 
 #overlay {
