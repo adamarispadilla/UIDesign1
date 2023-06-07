@@ -224,15 +224,9 @@ h1.cor {
   width: 378px;
   height: 58px;
   color: white;
-  font-size: x-large;
-  background-color: transparent;
-  border-radius: 10px;
+  font-size: medium;
 }
 
-.about-me:hover {
-  border-radius: 10px !important;
-  box-shadow: 0 4px 5px white !important;
-}
 #overlay {
   display: none;
   position: fixed;
