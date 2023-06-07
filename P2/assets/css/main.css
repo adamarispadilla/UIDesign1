@@ -164,7 +164,7 @@ body {
 
 
 h1.cor {
-	position: absolute;
+	position: relative;
   font-size: 60px;
   margin-top: 330px;
   left: 250px;
