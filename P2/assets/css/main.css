@@ -176,7 +176,7 @@ h1.cor {
     position: relative;
     padding: 7px;
     left: 280px;
-    top: -40px;
+    top: -77px;
     overflow: hidden;
     width: 748px;
     height: 600px;
@@ -229,7 +229,7 @@ h1.cor {
 .google-form{
   position: absolute;
   left: 25px;
-  top: 25px;
+  top: 30px;
   color: white;
   font-size: medium;
 }
