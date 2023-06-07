@@ -164,28 +164,16 @@ body {
 
 
 h1.cor {
-	position: relative;
+	position: absolute;
   font-size: 60px;
   margin-top: 330px;
   left: 250px;
   align-items: center;
   color: whitesmoke;
-  transform: translate(-50%, -50%);
-  animation: hoverAnimation 3s infinite;
+
 }
 
 
-@keyframes hoverAnimation {
-  0% {
-    transform: translate(-50%, -50%);
-  }
-  50% {
-    transform: translate(-50%, -55%);
-  }
-  100% {
-    transform: translate(-50%, -50%);
-  }
-}
 /*
 #title1{
   position: fixed;
