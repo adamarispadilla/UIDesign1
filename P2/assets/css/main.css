@@ -276,7 +276,7 @@ h1.cor {
 }
 
 #overlay-message {
-  font-size: 24px;
+  font-size: 55px;
   font-weight: bold;
   color: black;
   margin-bottom: 20px;
@@ -288,15 +288,15 @@ h1.cor {
 }
 
 #overlay-subtext {
-  font-size: 24px;
+  font-size: 40px;
   font-weight: bold;
-  color: whitesmoke;
-  box-shadow: 0 2px 4px black;
+  color: black;
+  box-shadow: 0 2px 4px white;
   margin-bottom: 20px;
   text-align: center; 
   position: fixed; 
   top: 30%; 
-  left: 55%; 
+  left: 50%; 
   transform: translate(-50%, -50%); 
 }
 
