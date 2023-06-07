@@ -189,7 +189,7 @@ h1.cor {
 #cloud-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 30px;
+  grid-gap: 37px;
   justify-items: center;
 }
 
