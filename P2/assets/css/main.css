@@ -313,14 +313,14 @@ h1.cor {
   top: 86%;
   left: 45%;
   padding: 10px;
-  text-decoration: none; 
+  text-decoration: none;
   border-radius: 100px;
-  box-shadow: 0 5px 10px white;
+  box-shadow: 0 4px 5px #3e5362;
 }
 
 #overlay-button:hover{
-  box-shadow: 0 20px 10px white;
-  border: 1px groove whitesmoke;
+  box-shadow: 0 4px 5px #7daecc;
+  border: 1px solid whitesmoke;
   border-radius: 10px;
   background-color: #7daecc;
   color: #3e5362;
