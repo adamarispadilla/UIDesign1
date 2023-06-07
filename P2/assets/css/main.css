@@ -312,14 +312,14 @@ h1.cor {
   color: black;
   top: 88%;
   left: 46%;
-  border: 1px solid #000;
+  border: 1px solid blue;
   border-radius: 10px;
   padding: 10px;
   text-decoration: none;
 }
 
 #overlay-button:hover{
-  box-shadow: 0 2px 4px red;
+  box-shadow: 0 2px 4px blue;
 }
 
 
