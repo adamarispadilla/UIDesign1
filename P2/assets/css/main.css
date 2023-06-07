@@ -207,8 +207,6 @@ h1.cor {
   color: black;
   opacity: 0;
   font-size: 18px;
-  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 60px lightblue;
-
 
 
 }
@@ -287,7 +285,7 @@ h1.cor {
   top: 55%; 
   left: 52%; 
   transform: translate(-50%, -50%); 
-  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ffffff;
+  text-shadow: 0 0 100px #ffffff, 0 0 100px #fff, 0 0 200px #fff, 0 0 300px #ffffff;
 
 }
 
