@@ -290,11 +290,11 @@ h1.cor {
 #overlay-subtext {
   font-size: 20px;
   font-weight: bold;
-  color: white;
+  color: black;
   margin-bottom: 20px;
   text-align: center; 
   position: fixed; 
-  top: 50%; 
+  top: 40%; 
   left: 50%; 
   transform: translate(-50%, -50%); 
 }
