@@ -216,10 +216,6 @@ h1.cor {
   cursor: pointer;
 }
 
-.about-me:hover {
-  border-radius: 10px;
-  box-shadow: 0 4px 5px #white;
-}
 
 .about-me{
   position: absolute;
@@ -233,6 +229,10 @@ h1.cor {
   border-radius: 10px;
 }
 
+.about-me:hover {
+  border-radius: 10px;
+  box-shadow: 0 4px 5px white;
+}
 #overlay {
   display: none;
   position: fixed;
