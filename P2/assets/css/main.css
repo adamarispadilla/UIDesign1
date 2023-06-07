@@ -308,13 +308,18 @@ h1.cor {
   position: absolute;
   width: 327px;
   height: 41px;
-  background-color: red;
-  color: white;
+  background-color: white;
+  color: black;
   top: 88%;
   left: 37%;
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 10px;
 }
 
-
+#overlay-button: hover{
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
 
 
 .rcloud1, .rcloud2, 
