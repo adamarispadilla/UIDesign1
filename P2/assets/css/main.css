@@ -141,7 +141,7 @@ h1.cor {
 }
 
 
-
+/*
 #title1{
   position: fixed;
   font-size: 25px;
@@ -155,7 +155,7 @@ h1.cor {
 
 }
 
-/* 2nd page - unwind */
+ 2nd page - unwind */
 
 
 #title2{
@@ -176,7 +176,7 @@ h1.cor {
     position: relative;
     padding: 7px;
     left: 280px;
-    top: -13px;
+    top: -82px;
     overflow: hidden;
     width: 748px;
     height: 600px;
@@ -208,8 +208,6 @@ h1.cor {
   color: black;
   opacity: 0;
   font-size: 18px;
-
-
 }
 
 
