@@ -229,9 +229,9 @@ h1.cor {
 .google-form{
   position: absolute;
   left: 25px;
-  top: 30px;
+  top: 50px;
   color: white;
-  font-size: medium;
+  font-size: small;
 }
 
 .google-form:hover{
