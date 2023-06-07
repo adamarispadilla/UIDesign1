@@ -208,12 +208,15 @@ h1.cor {
   opacity: 0;
   font-size: 18px;
 
+
 }
 
 
 .cloud-container2:hover .rcloud-text{
 	opacity: 1;
   cursor: pointer;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ffffff;
+
 }
 
 .google-form{
@@ -284,7 +287,7 @@ h1.cor {
   top: 55%; 
   left: 52%; 
   transform: translate(-50%, -50%); 
-  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ff00ff;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ffffff;
 
 }
 
