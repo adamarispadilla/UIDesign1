@@ -189,14 +189,12 @@ h1.cor {
 
 
 #title2{
-	position: fixed;
-  font-size: 28px;
-  margin-top: 60px;
-  padding: 10px ;
-  left: 200px;
-  align-items: center;
-  color: whitesmoke;
-  white-space: nowrap;
+  position: absolute;
+  left: 25px;
+  top: 10px;
+  color: white;
+  font-size: large;
+  font-weight: bold;
 
 }
 
