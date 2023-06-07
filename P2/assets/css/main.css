@@ -219,7 +219,7 @@ h1.cor {
 
 .title1{
   position: absolute;
-  left: 463px;
+  left: 25px;
   top: 10px;
   color: white;
   font-size: medium;
@@ -228,8 +228,8 @@ h1.cor {
 
 .google-form{
   position: absolute;
-  left: 463px;
-  top: 15px;
+  left: 25px;
+  top: 25px;
   color: white;
   font-size: medium;
 }
