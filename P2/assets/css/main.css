@@ -270,7 +270,7 @@ h1.cor {
 #overlay-message {
   font-size: 24px;
   font-weight: bold;
-  color: black;
+  color: white;
   margin-bottom: 10px;
 }
 
@@ -278,7 +278,7 @@ h1.cor {
   display: inline-block;
   padding: 10px 20px;
   background-color: #333;
-  color: white;
+  color: red;
   text-decoration: none;
   border-radius: 4px;
 }
