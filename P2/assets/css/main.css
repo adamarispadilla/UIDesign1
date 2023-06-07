@@ -235,10 +235,13 @@ h1.cor {
 }
 
 .google-form:hover{
-  text-decoration: underline;
   cursor: pointer;
 }
 
+.underline {
+  text-decoration: underline;
+  color: skyblue;
+}
 
 #overlay {
   display: none;
