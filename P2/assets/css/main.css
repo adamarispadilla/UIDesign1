@@ -326,6 +326,11 @@ h1.cor {
   color: #3e5362;
 }
 
+@keyframes floatAnimation {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
 
 .rcloud1, .rcloud2, 
 .rcloud3, .rcloud4,
@@ -335,6 +340,8 @@ h1.cor {
   width: 200px;
   height: 150px;
   position: absolute;
+  animation: floatAnimation 3s ease-in-out infinite;
+
 }
 .rcloud1:hover
 .rcloud2:hover,
@@ -346,6 +353,43 @@ h1.cor {
 .rcloud8:hover,
 .rcloud9:hover {
   cursor: pointer;
+}
+
+
+.rcloud1 {
+  animation-delay: 0s;
+}
+
+.rcloud2 {
+  animation-delay: 0.5s;
+}
+
+.rcloud3 {
+  animation-delay: 1s;
+}
+
+.rcloud4 {
+  animation-delay: 1.5s;
+}
+
+.rcloud5 {
+  animation-delay: 2s;
+}
+
+.rcloud6 {
+  animation-delay: 2.5s;
+}
+
+.rcloud7 {
+  animation-delay: 3s;
+}
+
+.rcloud8 {
+  animation-delay: 3.5s;
+}
+
+.rcloud9 {
+  animation-delay: 4s;
 }
 
 
