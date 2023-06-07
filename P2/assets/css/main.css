@@ -238,7 +238,7 @@ h1.cor {
   cursor: pointer;
 }
 
-.underline {
+.underline:hover{
   text-decoration: underline;
   color: skyblue;
 }
