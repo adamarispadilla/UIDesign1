@@ -278,7 +278,8 @@ h1.cor {
 #overlay-message {
   font-size: 55px;
   font-weight: bold;
-  color: whitesmoke;
+  color: black;
+  border-color: white;
   margin-bottom: 20px;
   text-align: center; 
   position: fixed; 
