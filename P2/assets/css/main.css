@@ -144,10 +144,10 @@ h1.cor {
 
 #title1{
   position: fixed;
-  font-size: 20px;
-  margin-top: 60px;
+  font-size: 25px;
+  margin-top: 40px;
   padding: 10px ;
-  top: 5px;
+  top: 0px;
   left: 350px;
   align-items: center;
   color: whitesmoke;
