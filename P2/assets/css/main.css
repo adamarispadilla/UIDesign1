@@ -33,6 +33,11 @@ body {
 	margin-bottom: 0px;
 }
 
+.navcloud{
+  position: fixed;
+  left: 50px;
+  
+}
 .cloud-text1 {
   position: absolute;
   top: 590px;
@@ -162,6 +167,8 @@ h1.cor {
   white-space: nowrap;
 
 }
+
+
 
 #cloud-grid-container {
     position: relative;
