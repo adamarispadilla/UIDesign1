@@ -12,9 +12,14 @@ body {
 
 
 @font-face {
-  font-family: 'jgs9';
-  src: url('assets/fonts/webfonts/jgs9.woff') format('woff'),
+    font-family: 'jgs9';
+    src: url('jgs9.woff2') format('woff2'),
+        url('jgs9.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
+
 /* 1st page - home page */
 
 #grid {
