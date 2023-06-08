@@ -453,6 +453,7 @@ h1.cor {
 
 
 .button-external{
+  position: absolute;
   width: 100px;
   height: 100px;
   top: 45%;
