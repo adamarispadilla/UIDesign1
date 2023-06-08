@@ -443,6 +443,7 @@ h1.cor {
   border-style: solid;
   width: 200px;
   height: 300px;
+  border-radius: 10px;
 
 }
 
@@ -454,9 +455,11 @@ h1.cor {
 
 .button-external{
   position: absolute;
-  width: 100px;
-  height: 100px;
-  top: 45%;
-  left: 50$;
-  background-color: red;
+  width: 70px;
+  height: 40px;
+  top: 70%;
+  left: 9%;
+  border-radius: 10px;
+  opacity: 0.5;
+  background-color: black;
 }
