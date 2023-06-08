@@ -437,6 +437,7 @@ h1.cor {
   text-align: center;
   padding: 10px;
   background-color: white;
+  opacity: 0.5;
   color: black;
   font-weight: bold;
   border-style: solid;
