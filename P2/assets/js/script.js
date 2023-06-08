@@ -17,4 +17,8 @@ $(document).ready(function() {
   $("#overlay").click(function() {
     $("#overlay").fadeOut();
   });
+  var button = document.getElementById("button-external");
+  button.addEventListener("click", function() {
+  window.location.href = "https://www.pixelthoughts.co/#";
+  });
 });
