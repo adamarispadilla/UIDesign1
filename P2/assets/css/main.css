@@ -11,6 +11,10 @@ body {
 }
 
 
+@font-face {
+  font-family: 'jgs_Font';
+  src: url('assets/fonts/jgs_Font.ttf) format(ttf'),
+}
 /* 1st page - home page */
 
 #grid {
@@ -256,7 +260,7 @@ h1.cor {
   color: white;
   font-size: large;
   font-weight: bold;
-  font-family: ui-rounded;    
+  font-family: 'jgs_Font'; 
 }
 
 .google-form{
