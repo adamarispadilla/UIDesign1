@@ -12,8 +12,8 @@ body {
 
 
 @font-face {
-  font-family: 'jgs_Font';
-  src: url('assets/fonts/jgs_Font.ttf') format('ttf'),
+  font-family: 'jgs9';
+  src: url('assets/fonts/webfonts/jgs9.woff') format('woff'),
 }
 /* 1st page - home page */
 
@@ -260,7 +260,7 @@ h1.cor {
   color: white;
   font-size: large;
   font-weight: bold;
-  font-family: 'jgs_Font'; 
+  font-family: 'jgs9'; 
 }
 
 .google-form{
