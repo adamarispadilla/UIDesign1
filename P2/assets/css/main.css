@@ -13,7 +13,7 @@ body {
 
 @font-face {
   font-family: 'jgs_Font';
-  src: url('assets/fonts/jgs_Font.ttf) format(ttf'),
+  src: url('fonts/jgs_Font.ttf') format('ttf'),
 }
 /* 1st page - home page */
 
