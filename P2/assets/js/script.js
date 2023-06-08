@@ -19,6 +19,6 @@ $(document).ready(function() {
   });
   var button = document.getElementById("button-external");
   button.addEventListener("click", function() {
-  window.location.href = "https://www.pixelthoughts.co/#";
+  window.location.href = "https://adamarispadilla.github.io/UIDesign1/";
   });
 });
