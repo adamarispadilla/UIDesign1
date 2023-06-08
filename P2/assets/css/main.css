@@ -169,7 +169,7 @@ h1.cor {
   align-items: center;
   color: whitesmoke;
   text-shadow: 2px 2px 4px black;
-  background: linear-gradient(to right, #fff, #000);
+  background: linear-gradient(to right, #000, #fff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
