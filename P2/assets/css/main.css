@@ -252,6 +252,7 @@ h1.cor {
   color: white;
   font-size: large;
   font-weight: bold;
+  font-family: ui-rounded;    
 }
 
 .google-form{
