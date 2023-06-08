@@ -352,14 +352,14 @@ h1.cor {
 
 #overlay-button{
   position: absolute;
-  width: 177px;
+  width: 230px;
   height: 76px;
   font-size: xx-large;
   background-color: #3e5362;
   opacity: 0.9;
   color: #7daecc;
   top: 2%;
-  left: 80%;
+  left: 77%;
   padding: 14px;
   text-decoration: none;
   border-radius: 10px;
