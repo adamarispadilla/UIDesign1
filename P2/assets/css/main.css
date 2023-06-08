@@ -168,8 +168,8 @@ h1.cor {
   left: 250px;
   align-items: center;
   color: whitesmoke;
-  text-shadow: 2px 2px 4px black;
-  background: linear-gradient(to right, #000, #fff);
+  text-shadow: 2px 2px 4px white;
+  background: linear-gradient(to right, #fff, #fff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
