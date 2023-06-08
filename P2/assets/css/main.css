@@ -434,6 +434,7 @@ h1.cor {
 }
 
 .column{
+  position: relative;
   text-align: center;
   padding: 10px;
   background-color: white;
@@ -458,7 +459,7 @@ h1.cor {
   width: 70px;
   height: 40px;
   text-align: center;
-  top: 250px;
+  bottom: 10px;
   left: 50px;
   transform: translateX(-50%);
 
