@@ -181,6 +181,7 @@ h1.cor {
   background: linear-gradient(to right, #fff, #fff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  font-family: jgs9;
 }
 
 
