@@ -209,6 +209,7 @@ h1.cor {
   color: white;
   font-size: large;
   font-weight: bold;
+  font-family: jgs9;
 
 }
 
@@ -250,6 +251,7 @@ h1.cor {
   color: black;
   opacity: 0;
   font-size: 18px;
+  font-family: jgs9;
 }
 
 
@@ -275,6 +277,7 @@ h1.cor {
   top: 35px;
   color: white;
   font-size: small;
+  font-family: jgs9;
 }
 
 .google-form:hover{
@@ -315,6 +318,7 @@ h1.cor {
 #overlay-text {
   text-align: center;
   margin-top: 20px;
+  font-family: jgs9;
 }
 
 #overlay-message {
@@ -342,6 +346,7 @@ h1.cor {
   left: 52%; 
   transform: translate(-50%, -50%); 
   text-decoration: underline;
+  font-family: jgs9;
 }
 
 
@@ -460,6 +465,7 @@ h1.cor {
   width: 200px;
   height: 300px;
   border-radius: 10px;
+  font-family: jgs9;
 
 }
 
