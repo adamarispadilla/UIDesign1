@@ -451,3 +451,10 @@ h1.cor {
   box-shadow: -3px 1px 10px 4px rgb(0 0 0);
 }
 
+
+.button-external{
+  width: 100px;
+  height: 100px;
+  top: 45%;
+  left: 50$;
+}
