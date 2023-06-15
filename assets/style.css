@@ -13,10 +13,8 @@
 
 
 body{
-	text-align:center;
 	background:#222;
 	color:#00FF00;
-	line-height:1em;
 	font-family:"terminal-grotesque-webfont.woff";
 	padding:0;
 	overflow:hidden;
