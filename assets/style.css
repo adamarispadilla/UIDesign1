@@ -7,15 +7,19 @@
 /* adjusting fonts */
 
 @font-face {
-  font-family: 'SilveradoPersonalUseRegular-ALl36';
-	src: url('Fonts/silverado-font/SilveradoPersonalUseRegular-ALl36.ttf') format('truetype');
+  font-family: 'terminal-grotesque.ttf';
+	src: url('Fonts/TG/terminal-grotesque.ttf') format('truetype');
 }
 
 
-h1 {
-	font-family: "SilveradoPersonalUseRegular-ALl36" ;
-	transition: background 500ms ease;
-	background-color: green;
+body{
+	text-align:center;
+	background:#222;
+	color:#00FF00;
+	line-height:1em;
+	font-family:"terminal_grotesque", arial;
+	padding:0;
+	overflow:hidden;
 }
 
 
