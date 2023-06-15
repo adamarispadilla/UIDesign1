@@ -53,8 +53,10 @@ img {
 
 
 h3 {
+	position: absolute;
 	margin: 50px;
-	margin-left: 50px ;
+	margin-left: 50px;
+	top: 50px;
 }
 
 .desc {
