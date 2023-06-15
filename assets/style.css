@@ -17,7 +17,7 @@ body{
 	background:#222;
 	color:#00FF00;
 	line-height:1em;
-	font-family:"terminal_grotesque-webfont", arial;
+	font-family:"terminal_grotesque-webfont";
 	padding:0;
 	overflow:hidden;
 }
