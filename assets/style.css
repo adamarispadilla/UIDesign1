@@ -58,10 +58,11 @@ img {
 
 .exercises{
 	position: absolute;
-	width: 58px;
-	height: 100px;
-	left: 50px;
-	background: #222;
+	width: 200px;
+	height: 200px;
+	left: 50%;
+	top: 50%;
+	background: white;
 
 }
 
