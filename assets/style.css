@@ -57,16 +57,22 @@ img {
 }
 
 .exercises{
-	position: absolute;
-	width: 200px;
-	height: 200px;
-	left: 50%;
-	top: 50%;
-	background: white;
-
+   position: absolute;
+   width: 250px;
+   height: 250px;
+   left: 55%;
+   top: 40%;
+   background: white;
 }
 
-
+.about-me{
+   position: absolute;
+   width: 250px;
+   height: 250px;
+   left: 55%;
+   top: 40%;
+   background: white;
+}
 button{
 	font-size: 1rem;
 	font-weight: bold;
