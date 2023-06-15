@@ -7,13 +7,16 @@
 /* adjusting fonts */
 
 @font-face {
-  font-family: "videogame";
-  src: url("terminal-grotesque-webfont.woff") ;
+  font-family: 'SilveradoPersonalUseRegular-ALl36';
+  src: url('fonts/silverado-font/SilveradoPersonalUseRegular-ALl36.ttf') format('tiff'),
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 
 body {
-	font-family: "videogame" , Helvetica, Arial;
+	font-family: "SilveradoPersonalUseRegular-ALl36" ;
 	transition: background 500ms ease;
 	color: black;
 	background-color: green;
