@@ -52,16 +52,19 @@ img {
 }
 
 
-h3 {
-	position: absolute;
-	margin: 50px;
-	margin-left: 50px;
-	top: 50px;
-}
-
 .desc {
 	margin-left: 400px;
 }
+
+.exercises{
+	position: absolute;
+	width: 58px;
+	height: 100px;
+	left: 50px;
+	background: #222;
+
+}
+
 
 button{
 	font-size: 1rem;
