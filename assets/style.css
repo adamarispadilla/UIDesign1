@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: 'SilveradoPersonalUseRegular-ALl36';
-  src: url('Fonts/silverado-font/SilveradoPersonalUseRegular-ALl36.ttf') format('ttf');
+	src: url('Fonts/silverado-font/SilveradoPersonalUseRegular-ALl36.ttf') format('truetype');
 }
 
 
@@ -19,16 +19,7 @@ h1 {
 	background-color: green;
 }
 
-/*.cursive {
-    font-family: cursive;
-}
 
-p, li {
-	font-size:  22px;
-	line-height: 30px;
-}
-
-*/ 
 
 a, a:visited {
   transition: all 500ms ease;
