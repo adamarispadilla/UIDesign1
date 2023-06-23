@@ -15,6 +15,7 @@
 body{
 	background-image: url("photos/whiteb.jpeg");
   background-position: center; 
+  background-size: cover;
 	color:#222;
 	font-family:"terminal-grotesque-webfont.woff";
 	padding:0;
