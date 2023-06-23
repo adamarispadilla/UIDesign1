@@ -14,7 +14,6 @@
 
 body{
 	background-image: url("photos/purple.jpeg");
-  background-size: cover; 
   background-position: center; 
 	color:#222;
 	font-family:"terminal-grotesque-webfont.woff";
