@@ -92,7 +92,7 @@ button:hover{
 /*	DARK MODE STYLES GO HERE */
 
 body.darkmode {
-	background: black;
+	background-image: url("photos/blackb.jpeg");
 	color: white;
 
 	/*	redefine a CSS variable */
