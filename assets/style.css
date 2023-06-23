@@ -48,8 +48,9 @@ h1{
   border-radius: 50%;
   background: black;
   color: white;
-  text-align: center;
-  text-align: justify;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 
