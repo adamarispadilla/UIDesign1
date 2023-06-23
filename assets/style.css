@@ -14,7 +14,7 @@
 
 body{
 	background-image: url("photos/whiteb.jpeg");
-  background-position: center; 
+  background-position: top left; 
   background-size: cover;
 	color:#222;
 	font-family:"terminal-grotesque-webfont.woff";
@@ -39,7 +39,6 @@ a:hover {
 
 h1, p {
 	margin: 50px;
-	margin-left: 500px;
 }
 
 ul, ol {
@@ -52,27 +51,22 @@ img {
 }
 
 
-.desc {
-	margin-left: 400px;
-}
+
 
 .exercises{
-   position: absolute;
    width: 250px;
    height: 250px;
    left: 55%;
    top: 40%;
-   background: white;
 }
 
 .about-me{
-   position: absolute;
    width: 250px;
    height: 250px;
    left: 25%;
    top: 40%;
-   background: white;
 }
+
 button{
 	font-size: 1rem;
 	font-weight: bold;
