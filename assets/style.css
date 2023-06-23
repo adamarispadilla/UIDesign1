@@ -63,7 +63,7 @@ h1{
 
 .exercises{
   position: relative;
-  width: 300px;
+  width: 320px;
   height: 300px;
   left: 151px;
   top: -50px;
@@ -76,7 +76,7 @@ h1{
 .exercises-text {
   position: absolute;
   left: 25%; 
-  top: -20%;
+  top: -12%;
   transform: translateY(-50%);
   font-size: 30px; 
   color: black;
