@@ -76,7 +76,7 @@ button{
 	padding: 0.5rem;
 	margin-bottom: 1rem; 
 	border-radius: 30px;
-	right: 150px;
+	right: 600px;
 	position: relative;
 	top: 26px;
 	left: 54px;
@@ -86,7 +86,6 @@ button{
 button:hover{
 	background: rgb(200 200 200);
 	cursor: pointer;
-	right: 80%;
 }
 
 
