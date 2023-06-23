@@ -34,6 +34,11 @@ h1{
 	font-size: 50px;
 }
 
+.description{
+	position: relative;
+	top: -5vh;
+}
+
 
 h3{
 	font-size: 20px;
