@@ -68,16 +68,14 @@ h1{
   position: relative;
   width: 350px;
   height: 350px;
-  left: 400px;
-  top: 150px;
+  left: 647px;
+  top: -95px;
   border-radius: 50%;
   background: black;
   color: white;
   display: flex;
   align-items: center;
-  justify-content: center;
 }
-
 
 button{
 	font-size: 1rem;
