@@ -39,7 +39,8 @@ a:hover {
 
 h1{
 	position: relative;
-	top: 10vh;
+	top: -10vh;
+	font-size: 33%;
 }
 
 ul, ol {
