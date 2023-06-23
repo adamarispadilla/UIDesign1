@@ -80,8 +80,8 @@ h1{
 
 .exercises-text {
   position: absolute;
-  left: 60%; 
-  top: 80%;
+  left: 70%; 
+  top: -8%;
   transform: translateY(-50%);
   font-size: 20px; 
   color: black;
