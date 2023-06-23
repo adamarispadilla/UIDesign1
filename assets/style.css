@@ -105,9 +105,9 @@ h1{
 .emoji{
   position: relative;
   width: 150px;
-  height: 50px;
-  left: 151px;
-  top: -116px;
+  height: 61px;
+  left: 520px;
+  top: -437px;
   border-radius: 50%;
   background: black;
   color: white;
@@ -116,13 +116,21 @@ h1{
 
 .emoji-txt {
   position: absolute;
-  left: 25%; 
-  top: -10%;
+  left: 20%; 
+  top: -30%;
   transform: translateY(-50%);
   font-size: 30px; 
   color: black;
 }
 
+.emoji a {
+	display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+
+}
 
 button{
 	font-size: 1rem;
