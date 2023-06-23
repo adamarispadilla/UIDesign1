@@ -42,9 +42,11 @@ h1{
 .favorite{
    width: 250px;
    height: 250px;
-   left: 55%;
+   left: 50%;
    top: 40%;
+   border-radius: 50%;
    background: black;
+   color: white;
 }
 
 h3{
