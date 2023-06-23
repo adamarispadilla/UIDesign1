@@ -52,7 +52,7 @@ h1{
 
 .favorite-text {
   position: absolute;
-  left: 30%; 
+  left: 40%; 
   top: -10%;
   transform: translateY(-50%);
   font-size: 30px; 
@@ -75,7 +75,7 @@ h1{
 
 .exercises-text {
   position: absolute;
-  left: 40%; 
+  left: 20%; 
   top: -10%;
   transform: translateY(-50%);
   font-size: 30px; 
