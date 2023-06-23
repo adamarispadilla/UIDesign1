@@ -44,7 +44,7 @@ h1{
   width: 296px;
   height: 161px;
 	left: 597px;
-  top: 163px;
+  top: 173px;
   border-radius: 50%;
   background: black;
   color: white;
@@ -53,7 +53,7 @@ h1{
 .favorite-text {
   position: absolute;
   left: 35%; 
-  top: -13%;
+  top: -23%;
   transform: translateY(-50%);
   font-size: 30px; 
   color: black;
@@ -66,7 +66,7 @@ h1{
   width: 300px;
   height: 300px;
   left: 151px;
-  top: -116px;
+  top: -136px;
   border-radius: 50%;
   background: black;
   color: white;
@@ -76,7 +76,7 @@ h1{
 .exercises-text {
   position: absolute;
   left: 25%; 
-  top: -10%;
+  top: -20%;
   transform: translateY(-50%);
   font-size: 30px; 
   color: black;
@@ -107,7 +107,7 @@ h1{
   width: 150px;
   height: 61px;
   left: 520px;
-  top: -437px;
+  top: -447px;
   border-radius: 50%;
   background: black;
   color: white;
@@ -117,7 +117,7 @@ h1{
 .emoji-text {
   position: absolute;
   left: 10%;
-  top: -20%;
+  top: -30%;
   transform: translateY(-50%);
   font-size: 18px;
   color: black;
