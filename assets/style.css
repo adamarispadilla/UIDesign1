@@ -77,6 +77,17 @@ h1{
   align-items: center;
 }
 
+
+.exercises-text {
+  position: absolute;
+  left: 60%; 
+  top: 80%;
+  transform: translateY(-50%);
+  font-size: 20px; 
+  color: black;
+}
+
+
 button{
 	font-size: 1rem;
 	font-weight: bold;
