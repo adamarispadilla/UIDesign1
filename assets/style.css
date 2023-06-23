@@ -22,15 +22,6 @@ body{
 
 
 
-a, a:visited {
-  transition: all 500ms ease;
-  color: blue;
-}
-
-a:hover {
-  color: red;  
-}
-
 /* adjusting spacing */
 
 #left-column {
@@ -41,15 +32,6 @@ h1{
 	position: relative;
 	top: -10vh;
 	font-size: 50px;
-}
-
-ul, ol {
-	margin-left: 100px;
-}
-
-img {
-	max-width: 100%;
-	height:  auto;
 }
 
 
@@ -65,7 +47,7 @@ h3{
    top: 40%;
 }
 
-.about-me{
+.favorite{
    width: 250px;
    height: 250px;
    left: 55%;
