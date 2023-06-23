@@ -53,7 +53,10 @@ img {
 }
 
 
-
+h3{
+	font-size: 20px;
+	left: 30%;
+}
 
 .exercises{
    width: 250px;
