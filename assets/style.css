@@ -13,11 +13,12 @@
 
 
 body{
-	background: lightgray;
+	background-image: url("photos/purple.jpeg");
+  background-size: cover; 
+  background-position: center; 
 	color:#222;
 	font-family:"terminal-grotesque-webfont.woff";
 	padding:0;
-	overflow:hidden;
 }
 
 
