@@ -37,7 +37,9 @@ a:hover {
 	padding: 20px;
 }
 
-
+h1{
+	top: 10px;
+}
 
 ul, ol {
 	margin-left: 100px;
