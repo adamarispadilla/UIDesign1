@@ -93,7 +93,7 @@ button:hover{
 
 body.darkmode {
 	background-image: url("photos/blackb.jpeg");
-	color: green;
+	color: white;
 
 	/*	redefine a CSS variable */
 	--accent-color: rgb(0,255,0);
