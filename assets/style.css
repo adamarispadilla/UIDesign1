@@ -100,6 +100,30 @@ h1{
 }
 
 
+
+
+.emoji{
+  position: relative;
+  width: 150px;
+  height: 50px;
+  left: 151px;
+  top: -116px;
+  border-radius: 50%;
+  background: black;
+  color: white;
+}
+
+
+.emoji-txt {
+  position: absolute;
+  left: 25%; 
+  top: -10%;
+  transform: translateY(-50%);
+  font-size: 30px; 
+  color: black;
+}
+
+
 button{
 	font-size: 1rem;
 	font-weight: bold;
