@@ -164,8 +164,8 @@ body.darkmode {
 }
 
 body.darkmode button{
-	color: white;
-	background-color: black;
+	color: black;
+	background-color: white;
 }
 
 /* media queries */
