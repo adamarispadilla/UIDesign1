@@ -171,10 +171,7 @@ body.darkmode button{
 
 body.darkmode .favorite,
 body.darkmode .exercises,
-body.darkmode .emoji
-body.darkmode .favorite-text,
-body.darkmode .exercises-text,
-body.darkmode .emoji-text {
+body.darkmode .emoji{
   background: white;
   color: black;
 }
