@@ -177,6 +177,25 @@ button:hover{
 	cursor: pointer;
 }
 
+/*  hyperlink styles */
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: purple;
+  text-decoration: underline;
+
+}
+
+a:hover {
+  text-decoration: underline;
+  color: purple;
+}
+
+
 
 /*	DARK MODE STYLES GO HERE */
 
