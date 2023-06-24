@@ -169,6 +169,12 @@ body.darkmode button{
 	background-color: white;
 }
 
+body.darkmode .favorite,
+body.darkmode .exercises,
+body.darkmode .emoji {
+  background: white;
+  color: black;
+}
 /* media queries */
 
 @media only screen and (max-width: 812px) { 
