@@ -158,10 +158,14 @@ button:hover{
 
 body.darkmode {
 	background-image: url("photos/blackb.jpeg");
-	color: rgba(173, 148, 216, 1);
+
 
 	/*	redefine a CSS variable */
 	--accent-color: rgb(0,255,0);
+}
+
+body.darkmode h1 {
+  color: rgba(173, 148, 216, 1);
 }
 
 body.darkmode button{
