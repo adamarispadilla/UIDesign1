@@ -32,6 +32,8 @@ h1{
 	position: relative;
 	top: 0vh;
 	font-size: 50px;
+  text-shadow: 2px 2px 4px rgba(173, 148, 216, 1);
+
 }
 
 .description{
@@ -123,6 +125,12 @@ ul {
 }
 
 
+.emoji,
+.favorite,
+.exercises{
+  box-shadow: 2px 2px 4px rgba(173, 148, 216, 1);
+
+}
 .emoji-text {
   position: absolute;
   left: 10%;
