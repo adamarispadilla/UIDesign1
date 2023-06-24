@@ -357,12 +357,10 @@ border-style: solid;
 }
 
 img {
+	position: absolute;
+	left: 35px;
+	right: 100px;
   filter: none; 
 }
 
 
-#image-1{
-	left: 35px;
-	right: 100px;
-
-}
