@@ -133,6 +133,9 @@ ul {
   color: white;
 }
 
+.emoji:hover {
+  box-shadow: none; 
+}
 
 .emoji,
 .favorite,
