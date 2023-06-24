@@ -179,6 +179,10 @@ button:hover{
 
 /*  hyperlink styles */
 
+a {
+  color: whitesmoke;
+  text-decoration: none;
+}
 
 a:visited {
   color: rgba(173, 148, 216, 1);
