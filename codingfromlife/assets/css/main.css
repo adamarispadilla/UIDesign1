@@ -357,10 +357,11 @@ border-style: solid;
 }
 
 img {
-	position: absolute;
-	left: 565px;
-	right: 100px;
-  filter: none; 
+  position: absolute;
+  left: 469px;
+  top: 57px;
+  filter: none;
+}
 }
 
 
