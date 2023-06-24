@@ -351,36 +351,18 @@ border-style: solid;
     position: absolute;
 }
 
+
 #stage {
-  position: relative;
+  filter: blur(2px); 
 }
 
-#stage::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 50%;
-  height: 100%;
-  background: inherit;
-  filter: blur(2px);
+img {
+  filter: none; 
 }
-
-#stage::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 50%;
-  height: 100%;
-  background: #e5d1b8; 
-}
-
 
 
 #image-1{
-  position: absolute;
-  right: 100px;
-  top: 50px;
+	left: 35px;
+	right: 100px;
 
 }
