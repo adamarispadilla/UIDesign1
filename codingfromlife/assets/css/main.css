@@ -352,30 +352,6 @@ border-style: solid;
 }
 
 
-/* animations */
-
-/*
-#clip:hover {
-	transform: rotate(1200deg);
+#stage {
+  filter: blur(5px); 
 }
-
-@keyframes spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-
-@keyframes move {
-  from {
-    transform: translateX(0px);
-  }
-  to {
-    transform: translateX(100px);
-  }
-}
-
-*/
