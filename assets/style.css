@@ -181,7 +181,7 @@ body.darkmode .favorite-text,
 body.darkmode .exercises-text,
 body.darkmode .emoji-text{
   color: white;
-  text-shadow: rgb(173, 148, 216);
+  text-shadow: 2px 2px 4px rgba(173, 148, 216, 1);
 }
 
 /* media queries */
