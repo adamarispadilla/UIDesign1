@@ -82,6 +82,13 @@ h1{
   color: black;
 }
 
+.exercises-text, 
+.emoji-text, 
+.favorite-text {
+    text-shadow: 2px 2px 4px rgba(173, 148, 216, 1);
+
+}
+
 
 .favorite ul {
   display: flex;
