@@ -356,6 +356,10 @@ border-style: solid;
   filter: blur(2px); 
 }
 
+#stage img {
+  filter: none; 
+}
+
 
 #image-1{
 	left: 35px;
