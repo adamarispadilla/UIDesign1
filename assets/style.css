@@ -191,9 +191,9 @@ a:visited {
 }
 
 a:hover {
-  text-decoration: underline;
   color: rgba(173, 148, 216, 1);
   box-shadow: 2px 2px 4px white;
+  border-radius: 10px;
 
 }
 
