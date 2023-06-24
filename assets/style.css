@@ -185,10 +185,6 @@ button:hover{
 
 /*  hyperlink styles */
 
-a {
-  color: whitesmoke;
-  text-decoration: none;
-}
 
 a:visited {
   color: rgba(173, 148, 216, 1);
@@ -197,7 +193,7 @@ a:visited {
 }
 
 .emoji a:hover {
-  text-shadow: 2px 2px 10px rgba(173, 148, 216, 1);
+  text-shadow: 2px 2px 10px white;
 }
 
 
