@@ -112,6 +112,10 @@ h1{
   margin-bottom: 10px;
 }
 
+.favorite ul li {
+  margin-bottom: 3px;
+}
+
 
 ul {
   list-style-type: none;
