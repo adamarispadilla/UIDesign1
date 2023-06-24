@@ -99,7 +99,9 @@ h1{
   height: 100%;
 }
 
-
+ul {
+  list-style-type: none;
+}
 
 
 .emoji{
@@ -129,7 +131,6 @@ h1{
   align-items: center;
   justify-content: center;
   height: 100%;
-
 }
 
 button{
