@@ -106,9 +106,12 @@ h1{
   align-items: center;
   justify-content: center;
   height: 100%;
-  margin-bottom: 10px;
-
 }
+
+.exercises ul li {
+  margin-bottom: 10px;
+}
+
 
 ul {
   list-style-type: none;
