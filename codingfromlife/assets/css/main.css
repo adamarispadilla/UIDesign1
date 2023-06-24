@@ -357,7 +357,7 @@ border-style: solid;
 }
 
 img {
-	position: relative;
+	position: absolute;
 	left: 565px;
 	right: 100px;
   filter: none; 
