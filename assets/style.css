@@ -182,7 +182,7 @@ body.darkmode .favorite-text,
 body.darkmode .exercises-text,
 body.darkmode .emoji-text{
   color: rgba(173, 148, 216, 1);
-  text-shadow: 2px 2px 4px white;
+  text-shadow: 2px 2px 4px rgba(184, 67, 67, 1);;
 }
 
 /* media queries */
