@@ -261,15 +261,9 @@ a.darkmode:visited {
 
 }
 
-.darkmode.emoji a:hover {
+a.darkmode:hover {
   text-shadow: 2px 2px 10px rgba(173, 148, 216, 1);
 }
-
-
-.darkmode.exercises a:hover,
-.darkmode.favorite a:hover {
-  color: black;
-  text-shadow: 2px 2px 10px rgba(173, 148, 216, 1);
 
 }
 
