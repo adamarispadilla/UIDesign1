@@ -244,6 +244,8 @@ body.darkmode .emoji{
 body.darkmode .favorite-text,
 body.darkmode .exercises-text,
 body.darkmode .emoji-text{
+  background: white;
+  color: black;
   color: rgba(173, 148, 216, 1);
   text-shadow: 2px 2px 4px rgba(134, 0, 255, 1);
 }
