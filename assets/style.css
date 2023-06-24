@@ -175,6 +175,14 @@ body.darkmode .emoji{
   background: white;
   color: black;
 }
+
+
+body.darkmode .favorite-text,
+body.darkmode .exercises-text,
+body.darkmode .emoji-text{
+  color: white;
+}
+
 /* media queries */
 
 @media only screen and (max-width: 812px) { 
