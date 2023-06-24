@@ -362,7 +362,8 @@ border-style: solid;
 
 
 #image-1{
-	left: 35px;
-	right: 100px;
+  position: absolute;
+  right: 100px;
+  top: 50px;
 
 }
