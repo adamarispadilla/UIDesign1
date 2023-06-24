@@ -248,6 +248,31 @@ body.darkmode .emoji-text{
   text-shadow: 2px 2px 4px rgba(134, 0, 255, 1);
 }
 
+
+
+a.darkmode {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgba(173, 148, 216, 1);
+  text-decoration: underline;
+
+}
+
+.emoji a:hover {
+  text-shadow: 2px 2px 10px rgba(173, 148, 216, 1);
+}
+
+
+.exercises a:hover,
+.favorite a:hover {
+  color: black;
+  text-shadow: 2px 2px 10px rgba(173, 148, 216, 1);
+
+}
+
 /* media queries */
 
 @media only screen and (max-width: 812px) { 
