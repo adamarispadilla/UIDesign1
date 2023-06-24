@@ -185,14 +185,14 @@ a {
 }
 
 a:visited {
-  color: purple;
+  color: rgba(173, 148, 216, 1);
   text-decoration: underline;
 
 }
 
 a:hover {
   text-decoration: underline;
-  color: purple;
+  color: rgba(173, 148, 216, 1);
 }
 
 
