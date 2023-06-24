@@ -355,3 +355,10 @@ border-style: solid;
 #stage {
   filter: blur(2px); 
 }
+
+
+#image-1{
+	left: 35px;
+	right: 100px;
+
+}
