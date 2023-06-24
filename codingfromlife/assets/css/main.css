@@ -353,12 +353,12 @@ border-style: solid;
 
 
 #stage {
-  filter: blur(2px); 
+  filter: blur(1px); 
 }
 
 img {
 	position: absolute;
-	left: 35px;
+	left: 565px;
 	right: 100px;
   filter: none; 
 }
