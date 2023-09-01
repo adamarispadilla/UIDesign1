@@ -507,4 +507,9 @@ h1.cor {
     height: auto; 
   }
 
+  .navcloud{
+    width: 100%;
+    height: auto;
+  }
+
 }
