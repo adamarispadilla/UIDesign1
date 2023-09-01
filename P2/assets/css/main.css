@@ -37,8 +37,8 @@ body {
 
 .cloud-container {
   position: absolute;
-  width: 300px;
-  height: 200px;
+  width: 300%;
+  height: 200%;
   margin-bottom: 0px;
 }
 
@@ -355,8 +355,8 @@ h1.cor {
 
 #overlay-button{
   position: absolute;
-  width: 230px;
-  height: 76px;
+  width: 230%;
+  height: 76%;
   font-size: xx-large;
   background-color: #3e5362;
   opacity: 0.9;
@@ -388,8 +388,8 @@ h1.cor {
 .rcloud5, .rcloud6,
 .rcloud7, .rcloud8,
 .rcloud9{
-  width: 200px;
-  height: 150px;
+  width: 200%;
+  height: 150%;
   position: absolute;
   animation: floatAnimation 3s ease-in-out infinite;
 
@@ -465,8 +465,8 @@ h1.cor {
   color: black;
   font-weight: bold;
   border-style: solid;
-  width: 200px;
-  height: 300px;
+  width: 200%;
+  height: 300%;
   border-radius: 10px;
   font-family: jgs9;
 
@@ -480,8 +480,8 @@ h1.cor {
 
 #Resources-Button{
   position: absolute;
-  width: 70px;
-  height: 40px;
+  width: 70%;
+  height: 40%;
   text-align: center;
   bottom: 10px;
   left: 95px;
