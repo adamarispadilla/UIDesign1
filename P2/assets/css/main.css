@@ -1,53 +1,58 @@
 * {
-	margin:  0px;
-	padding:  0px;
-	box-sizing: border-box;
-
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
   background-image: url('skycolor.png');
   overflow: hidden;
+  font-family: 'jgs9', sans-serif;
+  font-size: 16px;
 }
 
-
-@font-face {
-  font-family: 'jgs9';
-  src: url('fonts/webfonts/jgs9.woff2') format('woff2'),
-  url('fonts/webfonts/jgs9.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-/* 1st page - home page */
 
 #grid {
-	display: grid;
-	grid-template-columns: 1fr 1fr;
-	grid-gap: 20px;
-	align-items: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+  align-items: center;
 }
 
 #left-column {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .cloud-container {
-	position: absolute;
-	width: 300px;
-	height: 200px;
-	margin-bottom: 0px;
+  position: relative;
+  max-width: 100%; 
+  margin-bottom: 20px; 
 }
 
-.navcloud{
-  position: fixed;
-  left: 175px;
-  top: 20px;
-  
+.navcloud {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px; 
 }
+
+@media (min-width: 768px) {
+  body {
+    font-size: 18px;
+  }
+  
+  .cloud-container {
+    flex-basis: calc(33.33% - 20px); 
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    font-size: 20px;
+  }
+}
+
 .cloud-text1 {
   position: absolute;
   top: 590px;
