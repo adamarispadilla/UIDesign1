@@ -492,3 +492,19 @@ h1.cor {
 #Resources-Button:hover{
   text-shadow: 2px 2px 4px lightskyblue;
 }
+
+
+@media screen and (min-width: 768px) and (max-width: 1199px) {
+
+  /* You can adjust font sizes, padding, margins, or any other styles here */
+
+  body {
+    background-size: cover; 
+ }   
+
+  .cloud-container {
+    width: 100%; 
+    height: auto; 
+  }
+
+}
