@@ -25,33 +25,21 @@ body {
   align-items: center;
 }
 
-.cloud-container {
-  position: relative;
-  max-width: 100%; 
-  margin-bottom: 20px; 
-}
-
 .navcloud {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
-  margin-top: 20px; 
+  margin-top: 20px;
 }
 
-@media (min-width: 768px) {
-  body {
-    font-size: 18px;
-  }
-  
-  .cloud-container {
-    flex-basis: calc(33.33% - 20px); 
-  }
+.cloud-container {
+  position: relative;
+  width: 300px;
+  max-width: 100%; /* Make images responsive */
+  margin: 0 10px; /* Add some spacing between clouds */
+  text-align: center;
 }
 
-@media (min-width: 1024px) {
-  body {
-    font-size: 20px;
-  }
-}
 
 .cloud-text1 {
   position: absolute;
@@ -451,32 +439,28 @@ h1.cor {
 
 /* 3rd page - resources*/
 
-.resources-container{
-  position: relative;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  gap: 45px;
-  top: 126px;
-  left: 310px;
-
+.resources-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; /* Distribute boxes evenly */
+  margin-top: 20px;
+  padding: 20px;
 }
 
-.column{
-  position: relative;
+.column {
+  flex: 1; /* Equal width for boxes */
+  max-width: calc(33.33% - 20px); /* Three columns with spacing */
+  margin: 0 10px; /* Add spacing between boxes */
   text-align: center;
-  padding: 10px;
   background-color: white;
-  opacity: 0.3;
+  opacity: 0.9;
   color: black;
   font-weight: bold;
-  border-style: solid;
-  width: 200px;
-  height: 300px;
+  border: 2px solid #7daecc;
   border-radius: 10px;
-  font-family: jgs9;
-
+  padding: 20px;
+  font-family: 'jgs9', sans-serif;
 }
-
 
 .column:hover{
   box-shadow: -3px 1px 10px 4px rgb(0 0 0);
@@ -496,4 +480,25 @@ h1.cor {
 
 #Resources-Button:hover{
   text-shadow: 2px 2px 4px lightskyblue;
+}
+
+
+@media (min-width: 768px) {
+  body {
+    font-size: 18px;
+  }
+  
+  .cloud-container {
+    flex-basis: calc(33.33% - 20px); /* Three columns with spacing */
+  }
+  
+  .resources-container {
+    justify-content: center; /* Center align boxes on larger screens */
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    font-size: 20px;
+  }
 }
